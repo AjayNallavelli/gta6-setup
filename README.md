@@ -2,7 +2,7 @@
 
 Free static site (GitHub Pages) with a budget-based GTA 6 gaming setup builder for console players in India, four SEO buying guides and Amazon.in affiliate links. Not affiliated with Rockstar Games.
 
-Live: https://ajaynallavelli.github.io/gta6-setup/
+Live: https://gta6-setup-five.vercel.app/ (fallback: https://ajaynallavelli.github.io/gta6-setup/)
 
 ## Layout
 
@@ -42,6 +42,6 @@ GA4 uses the same measurement ID as GTMStack Tracker (`site.json: ga4_measuremen
 
 ## Deploy
 
-- **Vercel (primary):** `vercel.json` builds with `scripts/build.py` into `dist/` and serves from the domain root. The canonical URL comes from Vercel's `VERCEL_PROJECT_PRODUCTION_URL`. Pushes to `main` auto-deploy.
+- **Vercel (primary, https://gta6-setup-five.vercel.app):** `vercel.json` builds with `scripts/build.py` into `dist/` and serves from the domain root. The canonical URL comes from Vercel's `VERCEL_PROJECT_PRODUCTION_URL`. Currently deployed as a bootstrap deployment whose build downloads `main` from GitHub, so redeploy (Vercel create_deployment / redeploy) to publish new commits until the Vercel GitHub login connection is added for auto-deploy.
 - **GitHub Pages (fallback):** the workflow builds with `SITE_BASE_URL=https://ajaynallavelli.github.io/gta6-setup` so links carry the `/gta6-setup/` subpath.
 - Any build can override the base with the `SITE_BASE_URL` env var, e.g. `SITE_BASE_URL=https://example.com ./run.sh build`.
