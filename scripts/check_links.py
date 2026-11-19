@@ -6,7 +6,9 @@ from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parent.parent
 dist = ROOT / "dist"
-site = json.loads((ROOT / "site.json").read_text())
+sys.path.insert(0, str(ROOT / "scripts"))
+from common import load
+site = load("site.json")
 tag = json.loads((ROOT / "data/config.json").read_text()).get("amazon_tag", "")
 BASE = urlparse(site["base_url"]).path.rstrip("/")
 bad, n, amz = [], 0, 0

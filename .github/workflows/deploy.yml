@@ -41,6 +41,8 @@ jobs:
             git push origin HEAD:main
           fi
       - name: Build site + check links
+        env:
+          SITE_BASE_URL: https://ajaynallavelli.github.io/gta6-setup
         run: python scripts/build.py && python scripts/check_links.py
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5

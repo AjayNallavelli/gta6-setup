@@ -1,12 +1,20 @@
 """Shared helpers: data loading and the single affiliate-link function."""
-import json
+import json, os
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
 
 def load(name):
-    return json.loads((ROOT / name).read_text())
+    d = json.loads((ROOT / name).read_text())
+    if name == "site.json":
+        # Explicit override wins (GitHub Pages workflow sets the /gta6-setup subpath URL).
+        # On Vercel the site is served from the domain root, so use the project's production URL.
+        if os.environ.get("SITE_BASE_URL"):
+            d["base_url"] = os.environ["SITE_BASE_URL"].rstrip("/")
+        elif os.environ.get("VERCEL_PROJECT_PRODUCTION_URL"):
+            d["base_url"] = "https://" + os.environ["VERCEL_PROJECT_PRODUCTION_URL"]
+    return d
 
 
 def amazon_url(asin, tag=None):

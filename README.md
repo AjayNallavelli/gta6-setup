@@ -25,7 +25,7 @@ static/builder.js        # client-side recommendation logic (reads data/products
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 ./run.sh build     # build dist/ and check links
 ./run.sh prices    # refresh prices from Amazon.in
-./run.sh serve     # http://localhost:8788/gta6-setup/
+./run.sh serve     # http://localhost:8788/gta6-setup/ (serve mirrors the GitHub Pages subpath; Vercel serves from root, see Deploy)
 ```
 
 ## Affiliate tag
@@ -39,3 +39,9 @@ Every Amazon link is built by one function (`scripts/common.py: amazon_url`, mir
 ## Analytics
 
 GA4 uses the same measurement ID as GTMStack Tracker (`site.json: ga4_measurement_id`); `affiliate_click` events carry `site=gta6-setup` and `page_path`, so they can be filtered from GTMStack's.
+
+## Deploy
+
+- **Vercel (primary):** `vercel.json` builds with `scripts/build.py` into `dist/` and serves from the domain root. The canonical URL comes from Vercel's `VERCEL_PROJECT_PRODUCTION_URL`. Pushes to `main` auto-deploy.
+- **GitHub Pages (fallback):** the workflow builds with `SITE_BASE_URL=https://ajaynallavelli.github.io/gta6-setup` so links carry the `/gta6-setup/` subpath.
+- Any build can override the base with the `SITE_BASE_URL` env var, e.g. `SITE_BASE_URL=https://example.com ./run.sh build`.
