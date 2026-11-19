@@ -46,13 +46,13 @@ def main():
            "Enter your budget in INR and your console and get a GTA 6 setup: display, headset, controller, storage and cable, with prices checked on Amazon.in.",
            n_priced=n_priced, n_products=len(prods),
            ld=[{"@context": "https://schema.org", "@type": "WebApplication", "name": site["name"],
-                "url": site["base_url"] + "/", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any",
+                "url": site["canonical_url"] + "/", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any",
                 "description": "Budget-based gaming setup builder for Grand Theft Auto VI on consoles, with prices checked on Amazon.in."}])
     render("guides_index.html", "/guides/", "GTA 6 buying guides for India: TV, headset, monitor, PS5 vs PS5 Pro",
            "Four buying guides for a Grand Theft Auto VI setup in India, with prices checked on Amazon.in and no fake reviews.")
     for g in guides:
         picks = [{**by_asin[x["asin"]], "role": x.get("role", ""), "verdict": x.get("verdict", "")} for x in g.get("picks", [])]
-        url = f"{site['base_url']}/guides/{g['slug']}/"
+        url = f"{site['canonical_url']}/guides/{g['slug']}/"
         faq_ld = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["a"]}} for q in g["faq"]]}
         art_ld = {"@context": "https://schema.org", "@type": "Article", "headline": g["h1"], "description": g["description"],
@@ -75,10 +75,10 @@ def main():
         shutil.copy(ROOT / "data" / f, OUT / "data" / f)
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for p, lm in pages:
-        sm.append(f"  <url><loc>{html.escape(site['base_url'] + p)}</loc><lastmod>{lm}</lastmod></url>")
+        sm.append(f"  <url><loc>{html.escape(site['canonical_url'] + p)}</loc><lastmod>{lm}</lastmod></url>")
     sm.append("</urlset>")
     (OUT / "sitemap.xml").write_text("\n".join(sm) + "\n")
-    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {site['base_url']}/sitemap.xml\n")
+    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {site['canonical_url']}/sitemap.xml\n")
     (OUT / ".nojekyll").write_text("")
     print(f"Built {len(pages)} sitemap pages, {len(prods)} products ({n_priced} with a price) -> {OUT}")
 

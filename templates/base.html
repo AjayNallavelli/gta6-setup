@@ -15,23 +15,25 @@ document.addEventListener('click',function(e){
   }
 },true);
 </script>{% endif %}
-<meta name="viewport" content="width=device-width, initial-scale=1">
+{% if site.redirect and path != "/404.html" %}<meta http-equiv="refresh" content="0;url={{ site.canonical_url }}{{ path }}">
+<script>location.replace("{{ site.canonical_url }}{{ path }}"+location.search+location.hash);</script>
+{% endif %}<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ title }}</title>
 <meta name="description" content="{{ description }}">
-<link rel="canonical" href="{{ site.base_url }}{{ path }}">
+<link rel="canonical" href="{{ site.canonical_url }}{{ path }}">
 <meta name="theme-color" content="#0a0c12">
 <meta property="og:title" content="{{ title }}">
 <meta property="og:description" content="{{ description }}">
 <meta property="og:type" content="website">
-<meta property="og:url" content="{{ site.base_url }}{{ path }}">
+<meta property="og:url" content="{{ site.canonical_url }}{{ path }}">
 <meta property="og:site_name" content="{{ site.name }}">
-<meta property="og:image" content="{{ site.base_url }}/static/og.png">
+<meta property="og:image" content="{{ site.canonical_url }}/static/og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ title }}">
 <meta name="twitter:description" content="{{ description }}">
-<meta name="twitter:image" content="{{ site.base_url }}/static/og.png">
+<meta name="twitter:image" content="{{ site.canonical_url }}/static/og.png">
 <link rel="icon" href="{{ base }}/static/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="{{ base }}/static/style.css">
 {% for l in ld %}<script type="application/ld+json">{{ l|tojson_safe|safe }}</script>

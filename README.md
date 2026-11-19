@@ -43,5 +43,5 @@ GA4 uses the same measurement ID as GTMStack Tracker (`site.json: ga4_measuremen
 ## Deploy
 
 - **Vercel (primary, https://gta6-setup-five.vercel.app):** `vercel.json` builds with `scripts/build.py` into `dist/` and serves from the domain root. The canonical URL comes from Vercel's `VERCEL_PROJECT_PRODUCTION_URL`. Currently deployed as a bootstrap deployment whose build downloads `main` from GitHub, so redeploy (Vercel create_deployment / redeploy) to publish new commits until the Vercel GitHub login connection is added for auto-deploy.
-- **GitHub Pages (fallback):** the workflow builds with `SITE_BASE_URL=https://ajaynallavelli.github.io/gta6-setup` so links carry the `/gta6-setup/` subpath.
+- **GitHub Pages (redirect mirror):** the workflow builds with `SITE_BASE_URL=https://ajaynallavelli.github.io/gta6-setup` so asset/link paths keep the `/gta6-setup/` subpath, `CANONICAL_BASE_URL` pointing at Vercel, and `REDIRECT_TO_CANONICAL=1`, which makes every page meta-refresh/JS redirect to the matching Vercel page. Canonical, og:url, sitemap and robots always use `canonical_url` (site.json, overridable with `CANONICAL_BASE_URL`).
 - Any build can override the base with the `SITE_BASE_URL` env var, e.g. `SITE_BASE_URL=https://example.com ./run.sh build`.

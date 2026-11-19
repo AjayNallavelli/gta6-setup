@@ -2,6 +2,7 @@
   "name": "GTA 6 Setup Builder",
   "tagline": "Budget-based console, display, headset and storage picks for Grand Theft Auto VI, with prices checked on Amazon.in",
   "base_url": "https://ajaynallavelli.github.io/gta6-setup",
+  "canonical_url": "https://gta6-setup-five.vercel.app",
   "ga4_measurement_id": "G-H8BKQMPMQ6",
   "ga4_note": "Same GA4 property as GTMStack Tracker (data stream shared); events carry site=gta6-setup and page_path starts with /gta6-setup/ so they can be filtered.",
   "contact_email": "ajay-desk@mail.grokbot.com",

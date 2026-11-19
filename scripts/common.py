@@ -14,6 +14,10 @@ def load(name):
             d["base_url"] = os.environ["SITE_BASE_URL"].rstrip("/")
         elif os.environ.get("VERCEL_PROJECT_PRODUCTION_URL"):
             d["base_url"] = "https://" + os.environ["VERCEL_PROJECT_PRODUCTION_URL"]
+        # Canonical host (canonical, og:url, sitemap, robots) is independent of where assets/links are served from.
+        d["canonical_url"] = (os.environ.get("CANONICAL_BASE_URL") or d.get("canonical_url") or d["base_url"]).rstrip("/")
+        # Mirror hosts (GitHub Pages) redirect every page to the matching canonical page.
+        d["redirect"] = bool(os.environ.get("REDIRECT_TO_CANONICAL"))
     return d
 
 
