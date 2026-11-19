@@ -1,0 +1,9 @@
+{% extends "base.html" %}{% import "_card.html" as c %}
+{% block body %}
+<h1>All products</h1>
+<p class="lead">Every product the builder can recommend. Prices are the amount shown on the Amazon.in product page on the date beside it. If a price could not be read (out of stock, only third-party sellers at odd prices) it says “Check price”. Last refresh: {{ products_meta.updated }}.</p>
+{% for key,label in cats %}{% set items = products_meta.products|selectattr("category","equalto",key)|list %}{% if items %}
+<h2 id="{{ key }}">{{ label }}</h2>
+<div class="grid">{% for p in items %}{{ c.card(p) }}{% endfor %}</div>
+{% endif %}{% endfor %}
+{% endblock %}

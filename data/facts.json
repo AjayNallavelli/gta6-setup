@@ -1,0 +1,13 @@
+{
+  "checked": "2026-11-19",
+  "title": "Grand Theft Auto VI",
+  "release_date": "2026-11-19",
+  "release_date_text": "November 19, 2026",
+  "platforms": ["PlayStation 5", "PlayStation 5 Pro (PS5 Pro Enhanced)", "Xbox Series X|S"],
+  "not_platforms": ["PlayStation 4", "Xbox One", "Nintendo Switch", "PC"],
+  "summary": "Rockstar Games lists Grand Theft Auto VI for PlayStation 5 and Xbox Series X|S with a November 19, 2026 release date. PlayStation's store page lists a PS5 version and a PS5 Pro Enhanced version (PSSR upscaling and ray-traced shadows) and says it will only be playable on PS5 consoles, not PS4. We found no PC version announced on Rockstar's official page.",
+  "sources": [
+    {"label": "Rockstar Games: Grand Theft Auto VI (official page)", "url": "https://www.rockstargames.com/VI", "note": "Shows 'Coming November 19, 2026', platform badges for PlayStation 5 and Xbox Series X|S, Standard and Ultimate editions, a 'Plays best on PlayStation 5' badge, and a pre-load notice for November 19.", "checked": "2026-11-19"},
+    {"label": "PlayStation: Grand Theft Auto VI (US store page)", "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/", "note": "Lists 'Available on PS5' with 'PS5 Pro Enhanced'; FAQ says 'released for PlayStation 5 and PS5 Pro on November 19, 2026' and 'will only be playable on PlayStation 5 consoles. It will not be available for PlayStation 4'; PS5 Pro Enhanced = PSSR and ray-traced shadows, compatible display required.", "checked": "2026-11-19"}
+  ]
+}

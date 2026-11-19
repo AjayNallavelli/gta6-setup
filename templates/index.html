@@ -1,0 +1,67 @@
+{% extends "base.html" %}{% import "_card.html" as c %}
+{% block body %}
+<section class="hero">
+  <p class="eyebrow">Grand Theft Auto VI · {{ facts.release_date_text }} · {{ facts.platforms[0] }} / Xbox Series X|S</p>
+  <h1>Build your GTA 6 setup for your budget</h1>
+  <p class="lead">Pick a platform, enter what you want to spend, and get a display, headset, controller, storage and cable you can actually buy in India. Prices are copied from Amazon.in and dated, never guessed.</p>
+</section>
+<section id="builder" class="builder">
+  <form id="bf" autocomplete="off">
+    <div class="row">
+      <label>Budget
+        <span class="inp"><span id="cur-sym">₹</span><input id="budget" type="number" min="1000" step="500" value="50000" inputmode="numeric"></span>
+      </label>
+      <label>Currency
+        <select id="cur"><option value="INR">INR (₹)</option><option value="USD" id="usd-opt" disabled>USD ($) — rate loading</option></select>
+      </label>
+      <label>Platform
+        <select id="platform">
+          <option value="ps5">PS5 (Slim, disc or digital)</option>
+          <option value="ps5pro">PS5 Pro</option>
+          <option value="xsx">Xbox Series X</option>
+          <option value="xss">Xbox Series S</option>
+        </select>
+      </label>
+    </div>
+    <div class="row">
+      <label>Display
+        <select id="display"><option value="tv">TV (living room)</option><option value="monitor">Gaming monitor (desk)</option><option value="best">Whichever fits best</option><option value="none">I already have one</option></select>
+      </label>
+      <label>Headset
+        <select id="headset"><option value="any">Wired or wireless</option><option value="wireless">Wireless only</option><option value="wired">Wired only</option><option value="none">Skip</option></select>
+      </label>
+      <label>Extras
+        <select id="extras"><option value="cable">Cable + charger</option><option value="storage">Storage + cable + charger</option><option value="none">Skip extras</option></select>
+      </label>
+    </div>
+    <div class="row">
+      <label class="chk"><input id="own-console" type="checkbox" checked> I already own my console (budget goes to the rest of the setup)</label>
+      <label class="chk"><input id="own-controller" type="checkbox"> I need a second controller</label>
+    </div>
+    <button class="btn big-btn" type="submit">Build my setup</button>
+  </form>
+  <div id="result" class="result" aria-live="polite"></div>
+  <noscript><p class="notice">The builder needs JavaScript. You can still browse <a href="{{ base }}/products/">every product</a> and the <a href="{{ base }}/guides/">buying guides</a>.</p></noscript>
+</section>
+
+<section class="facts">
+  <h2>What we can confirm about GTA 6 right now</h2>
+  <p>{{ facts.summary }}</p>
+  <ul class="small">
+    {% for s in facts.sources %}<li><a href="{{ s.url }}" rel="noopener">{{ s.label }}</a>, checked {{ s.checked }}</li>{% endfor %}
+  </ul>
+  <p class="small muted">See <a href="{{ base }}/gta-6-platforms-release-date/">platforms and release date</a> for the details. This site is not affiliated with Rockstar Games.</p>
+</section>
+
+<section>
+  <h2>Buying guides</h2>
+  <div class="grid">
+    {% for g in guides %}<a class="gcard" href="{{ base }}/guides/{{ g.slug }}/"><strong>{{ g.h1 }}</strong><span class="muted small">{{ g.card }}</span></a>{% endfor %}
+  </div>
+</section>
+<section class="small muted">
+  <p>The builder uses {{ n_products }} products ({{ n_priced }} with a price read from Amazon.in; the rest say “Check price”). Prices last refreshed {{ products_meta.updated }}. The recommendation logic runs in your browser from <a href="{{ base }}/data/products.json">products.json</a>; nothing you type is sent anywhere.</p>
+</section>
+<script>window.GTA6_BASE="{{ base }}";</script>
+<script src="{{ base }}/static/builder.js" defer></script>
+{% endblock %}

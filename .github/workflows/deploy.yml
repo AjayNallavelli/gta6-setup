@@ -1,0 +1,57 @@
+name: daily-prices-and-deploy
+on:
+  schedule:
+    - cron: "0 3 * * *"   # 03:00 UTC daily = 08:30 IST
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths-ignore: ["data/products.json", "data/config.json", "**.md"]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Refresh Amazon.in prices
+        # If Amazon blocks the runner, the script keeps the last good price and its date; this step must never fail the deploy.
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: python scripts/refresh_prices.py | tee /tmp/refresh.log
+      - name: Commit price data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "gta6-setup-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "no data changes"; else
+            git commit -m "data: prices $(date -u +%F)"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Build site + check links
+        run: python scripts/build.py && python scripts/check_links.py
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

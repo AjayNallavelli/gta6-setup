@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block body %}
+<h1>GTA 6 platforms and release date</h1>
+<p class="muted small">Checked {{ facts.checked }} against Rockstar Games and PlayStation's official pages.</p>
+<div class="answer"><strong>Release date:</strong> {{ facts.release_date_text }}. <strong>Platforms:</strong> PlayStation 5 (with a PS5 Pro Enhanced version) and Xbox Series X|S.</div>
+<h2>What the official pages say</h2>
+<ul>
+{% for s in facts.sources %}<li><a href="{{ s.url }}" rel="noopener">{{ s.label }}</a>: {{ s.note }} <span class="muted small">(checked {{ s.checked }})</span></li>{% endfor %}
+</ul>
+<h2>What it means for your setup</h2>
+<ul>
+<li><strong>PS4 and Xbox One:</strong> not supported. PlayStation says it will only be playable on PS5 consoles.</li>
+<li><strong>PC:</strong> no PC version is listed on Rockstar's official page as of {{ facts.checked }}. Any "PC setup for GTA 6" advice is guessing.</li>
+<li><strong>PS5 Pro:</strong> PlayStation lists a PS5 Pro Enhanced version (PSSR upscaling, ray-traced shadows, compatible display required). See <a href="{{ base }}/guides/ps5-vs-ps5-pro-gta-6/">PS5 vs PS5 Pro for GTA 6</a>.</li>
+<li><strong>Display:</strong> Rockstar has not published frame-rate or resolution modes on these pages, so we do not claim any. A 4K display with HDMI 2.1 and low input lag is a safe choice on current consoles.</li>
+</ul>
+<p>Ready to pick hardware? <a class="btn" href="{{ base }}/#builder">Open the setup builder</a></p>
+<p class="small muted">Not affiliated with Rockstar Games, Take-Two, Sony or Microsoft. Dates and platforms can change; check the official pages above.</p>
+{% endblock %}

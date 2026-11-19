@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+{% if site.ga4_measurement_id %}<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4_measurement_id }}"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','{{ site.ga4_measurement_id }}');
+document.addEventListener('click',function(e){
+  var a=e.target.closest&&e.target.closest('a');if(!a)return;
+  var rel=(a.getAttribute('rel')||'').split(/\s+/),href=a.href||'';
+  if(rel.indexOf('sponsored')>=0){
+    var tool=a.getAttribute('data-tool');if(!tool){try{tool=new URL(href).hostname.replace(/^www\./,'');}catch(_){tool=href;}}
+    gtag('event','affiliate_click',{site:'gta6-setup',tool:tool,link_url:href,page_path:location.pathname,transport_type:'beacon'});
+  }
+},true);
+</script>{% endif %}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}</title>
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="{{ site.base_url }}{{ path }}">
+<meta name="theme-color" content="#0a0c12">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ site.base_url }}{{ path }}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:image" content="{{ site.base_url }}/static/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ title }}">
+<meta name="twitter:description" content="{{ description }}">
+<meta name="twitter:image" content="{{ site.base_url }}/static/og.png">
+<link rel="icon" href="{{ base }}/static/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="{{ base }}/static/style.css">
+{% for l in ld %}<script type="application/ld+json">{{ l|tojson_safe|safe }}</script>
+{% endfor %}</head>
+<body>
+<div class="disc-bar">As an Amazon Associate we earn from qualifying purchases. Not affiliated with Rockstar Games. <a href="{{ base }}/about/">Details</a></div>
+<header class="top"><div class="wrap nav">
+  <a class="logo" href="{{ base }}/"><span class="mark">▲</span> GTA 6 Setup <span class="muted">Builder</span></a>
+  <nav><a href="{{ base }}/#builder">Builder</a><a href="{{ base }}/guides/">Guides</a><a href="{{ base }}/products/">Products</a><a href="{{ base }}/gta-6-platforms-release-date/">Platforms &amp; date</a><a href="{{ base }}/about/">About</a></nav>
+</div></header>
+<main class="wrap">
+{% block body %}{% endblock %}
+</main>
+<footer class="foot"><div class="wrap">
+  <p><strong>Affiliate disclosure:</strong> As an Amazon Associate we earn from qualifying purchases. Links marked <span class="tag-aff">Affiliate link</span> go to Amazon.in; the price you pay does not change.</p>
+  <p class="muted small">This is an independent fan-made buying aid. It is not affiliated with, endorsed by or sponsored by Rockstar Games, Take-Two Interactive, Sony, Microsoft or Amazon. Grand Theft Auto is a trademark of Take-Two Interactive. Prices are copied from Amazon.in on the date shown beside each one and can change at any time; always confirm on Amazon before buying. No reviews or ratings are invented on this site.</p>
+  <p class="muted small"><a href="{{ base }}/about/">About &amp; disclosure</a> · <a href="{{ base }}/guides/">Guides</a> · <a href="{{ base }}/products/">All products</a> · <a href="{{ base }}/sitemap.xml">Sitemap</a></p>
+</div></footer>
+</body></html>

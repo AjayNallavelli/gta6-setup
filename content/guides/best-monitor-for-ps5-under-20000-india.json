@@ -1,0 +1,32 @@
+{
+ "order": 3, "slug": "best-monitor-for-ps5-under-20000-india", "published": "2026-11-19", "updated": "2026-11-19",
+ "title": "Best monitor for PS5 under ₹20,000 in India (2026): HDMI 2.1, QHD and 144Hz+",
+ "h1": "Best monitor for PS5 under ₹20,000 in India",
+ "card": "Six gaming monitors from ₹8,600 to ₹19,500, with HDMI details read from Amazon.in listings.",
+ "description": "Best gaming monitors for PS5 under ₹20,000 in India: QHD 180Hz with HDMI 2.1 from Lenovo and Acer, plus cheaper Full HD 144-200Hz options, with prices checked on Amazon.in.",
+ "answer": "The <strong>Lenovo LOQ 27Q-10</strong> is the best pick under ₹20,000 in this list: QHD IPS, 180Hz and two HDMI 2.1 ports per its listing, at a mid-teens price. The <strong>Acer Nitro VG270U Z2</strong> is the alternative if you want HDMI 2.1 and a higher refresh rate.",
+ "intro": [
+  "A monitor is a good fit for GTA 6 if you play at a desk. Under ₹20,000 you will not find a true 4K monitor with HDMI 2.1 in our data (the Acer Nitro XV270K V2 4K 144Hz is listed above this budget), but QHD (2560x1440) is a real step up from Full HD and the PS5 can output 1440p on compatible monitors.",
+  "GTA 6 is listed for PS5 and Xbox Series X|S with a November 19, 2026 release date (<a href=\"@BASE@/gta-6-platforms-release-date/\">official sources</a>). Rockstar's pages we checked do not publish resolution or frame-rate modes, so we do not promise any. Specs below are copied from the Amazon.in listing on the date shown."
+ ],
+ "picks": [
+  {"asin": "B0H696XFPH", "role": "Best overall under ₹20,000", "verdict": "QHD IPS at 180Hz with <strong>2 HDMI 2.1 ports</strong> and a DisplayPort 1.4 per the listing. 27 inches at QHD is sharper than 27-inch Full HD and the HDMI 2.1 inputs suit a PS5.", "specs": ["27-inch QHD 2560x1440 IPS", "180Hz, 0.5ms, HDR10 compliance", "2x HDMI 2.1, 1x DisplayPort 1.4"]},
+  {"asin": "B08B7VX691", "role": "HDMI 2.1 with higher refresh", "verdict": "QHD IPS with <strong>HDMI 2.1</strong> and DisplayPort 1.4, 275Hz overclocked refresh and 90% DCI-P3 per the listing. Costs a little more than the Lenovo; the extra refresh rate only matters on a PC.", "specs": ["27-inch QHD IPS", "HDMI 2.1, DP 1.4", "275Hz OC, HDR10, dual 2W speakers"]},
+  {"asin": "B0DCBDVNLD", "role": "Biggest desk screen", "verdict": "A 32-inch curved QHD VA panel at 180Hz with 2 HDMI ports per the listing. Larger and more immersive, but a 32-inch QHD screen is less sharp per inch than 27 inches.", "specs": ["32-inch curved (1000R) QHD VA", "180Hz, 1ms", "2x HDMI, DP, headphone out"]},
+  {"asin": "B0HFSLVGBK", "role": "Best budget 27-inch", "verdict": "Full HD IPS at 144Hz with a Dynamic Action Sync mode aimed at lower input lag, per the listing. Full HD on 27 inches looks softer than QHD, but it is the cheapest 27-inch pick.", "specs": ["27-inch FHD 1920x1080 IPS", "144Hz, 1ms MBR, HDR10", "NVIDIA G-SYNC Compatible, AMD FreeSync"]},
+  {"asin": "B0D4YPL67T", "role": "Compact 24-inch", "verdict": "A 23.8-inch IPS at 180Hz with HDR10 and 99% sRGB per the listing. A good size for a small desk.", "specs": ["23.8-inch FHD IPS", "180Hz, 1ms", "HDR10, sRGB 99% (typ.)"]},
+  {"asin": "B0DQP36N7T", "role": "Cheapest", "verdict": "The lowest price here: 24.5-inch Rapid IPS at 200Hz. The listing says the HDMI 2.0b input supports FHD@200Hz and it has HDMI CEC. Full HD only.", "specs": ["24.5-inch FHD Rapid IPS", "200Hz, 0.5ms", "HDMI 2.0b + DisplayPort 1.2a"]}
+ ],
+ "sections": [
+  {"h2": "How we chose", "p": ["We kept to monitors priced under ₹20,000 on Amazon.in on the date shown and ranked them by resolution, HDMI version and refresh rate. We have not measured input lag or colour accuracy, so we do not rate picture quality beyond what the listing says.", "If you can stretch the budget, the <a href=\"@BASE@/products/#monitor\">Acer Nitro XV270K V2</a> is a 4K IPS panel with 2 HDMI 2.1 ports in our data. The Samsung Odyssey G5 is QHD but its listing shows HDMI 2.0 only."]},
+  {"h2": "Monitor or TV?", "p": ["A monitor wins at a desk and is cheaper per refresh-rate; a TV wins for a sofa and a bigger screen. See the <a href=\"@BASE@/guides/best-tv-for-gta-6-ps5-india/\">best TV for GTA 6 on PS5</a>. Monitors have weak speakers, so budget for a <a href=\"@BASE@/guides/best-gaming-headset-under-5000-india/\">headset</a> too."]},
+  {"h2": "Xbox owners", "p": ["Everything here also works with Xbox Series X|S through HDMI; the Series S tops out at lower resolutions than the Series X, so QHD is a comfortable target for both."]}
+ ],
+ "faq": [
+  {"q": "Can a PS5 output 1440p to a monitor?", "a": "Yes, the PS5 supports 1440p output on compatible monitors after a 2022 system software update. Check the monitor accepts 1440p over HDMI."},
+  {"q": "Do I need HDMI 2.1 on a monitor for PS5?", "a": "HDMI 2.1 enables VRR and higher-bandwidth modes such as 4K120 or 1440p120. HDMI 2.0 monitors still work for standard play. The Lenovo LOQ 27Q-10 and Acer Nitro VG270U Z2 list HDMI 2.1 on Amazon.in."},
+  {"q": "Is there a 4K monitor for PS5 under ₹20,000?", "a": "Not in our data with HDMI 2.1 and a gaming refresh rate. The Acer Nitro XV270K V2 (4K, 144Hz, 2 HDMI 2.1 ports) is above ₹20,000 on the date shown."},
+  {"q": "Will GTA 6 run at 120Hz?", "a": "We do not know. Rockstar's official pages we checked on 2026-11-19 do not list frame-rate modes, so we do not claim a 120Hz mode."},
+  {"q": "Is Full HD enough for GTA 6?", "a": "It works, but on a 27-inch screen QHD looks noticeably sharper. On a 24-inch screen Full HD is a more even match."}
+ ]
+}

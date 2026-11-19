@@ -1,0 +1,5 @@
+{% macro price(p) %}{% if p.price %}<span class="price">{{ p.price|inr }}</span> <span class="muted small">on Amazon.in, checked {{ p.price_checked }}</span>{% else %}<span class="price none">Check price</span> <span class="muted small">{{ p.price_note }}</span>{% endif %}{% endmacro %}
+{% macro buy(p, label="View on Amazon.in") %}<a class="btn" href="{{ p.url }}" target="_blank" rel="sponsored nofollow noopener" data-tool="{{ p.asin }}">{{ label }}</a> <span class="tag-aff">Affiliate link</span>{% endmacro %}
+{% macro card(p) %}<article class="card"><div class="cat">{{ p.category|upper }}{% if p.platforms %} · {% for x in p.platforms %}{{ plat[x] }}{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}</div>
+<h3>{{ p.name }}</h3><p class="why">{{ p.why }}</p>
+<p>{{ price(p) }}</p><p>{{ buy(p) }}</p><p class="muted small">ASIN {{ p.asin }}</p></article>{% endmacro %}

@@ -1,0 +1,32 @@
+{
+ "order": 1, "slug": "best-tv-for-gta-6-ps5-india", "published": "2026-11-19", "updated": "2026-11-19",
+ "title": "Best TV for GTA 6 on PS5 in India (2026): 4K, HDMI 2.1 and low input lag",
+ "h1": "Best TV for GTA 6 on PS5 in India",
+ "card": "Six 4K TVs from ₹36,000 to ₹63,000, ranked on HDMI 2.1, refresh rate and game mode.",
+ "description": "Which 4K TV to buy for Grand Theft Auto VI on PS5 in India: HDMI 2.1 ports, 120Hz, ALLM and VRR, with Amazon.in prices checked on the date shown.",
+ "answer": "For a PS5 in India the <strong>Hisense 55E7Q</strong> is the best match on paper in this list: its Amazon.in listing shows 3 HDMI 2.1 ports and a 144Hz game mode. If you want to spend less, the <strong>Hisense 55E75Q</strong> also has HDMI 2.1, VRR and ALLM but a 60Hz panel.",
+ "intro": [
+  "GTA 6 is listed by Rockstar for PlayStation 5 and Xbox Series X|S and releases on November 19, 2026 (<a href=\"@BASE@/gta-6-platforms-release-date/\">official sources, checked 2026-11-19</a>). The pages we checked do not publish resolution or frame-rate modes, so we do not claim any. What we can do is pick TVs that handle what a PS5 can output: 4K, HDR, up to 120Hz, and the console-friendly features ALLM (the TV switches to its low-lag game mode on its own) and VRR (the TV follows the console's frame rate to avoid tearing).",
+  "Every spec below is copied from the product's Amazon.in listing on the date shown. Where a listing says 60Hz we say 60Hz. We do not publish input-lag numbers because we have not measured them; look for ALLM and a Game Mode instead."
+ ],
+ "picks": [
+  {"asin": "B0F4WZWKSL", "role": "Best match for PS5", "verdict": "The listing shows <strong>3 HDMI 2.1 ports</strong>, a <strong>144Hz Game Mode Pro</strong>, a QLED panel and Dolby Vision. That is the closest to what a PS5 can use, so it ranks first. One HDMI port has eARC for a soundbar.", "specs": ["55-inch 4K QLED, VIDAA OS", "3x HDMI 2.1, HDMI 2 eARC", "144Hz refresh (240Hz HSR), Dolby Vision, HDR10+"]},
+  {"asin": "B0FJLSNZBW", "role": "Best value with HDMI 2.1", "verdict": "Also 3 HDMI 2.1 ports with <strong>ALLM and VRR</strong> on a QLED panel, for less money. The listing gives the refresh rate as <strong>60Hz</strong>, so 4K at 120Hz is not advertised. Fine for 4K60 play.", "specs": ["55-inch 4K QLED, VIDAA OS", "3x HDMI 2.1 (HDMI 3 eARC), ALLM, VRR", "60Hz listed, Dolby Vision, HDR10+"]},
+  {"asin": "B0H2BWX52Y", "role": "Best contrast (Mini LED)", "verdict": "Quantum-dot Mini LED with full-array local dimming generally gives deeper blacks than a plain LED panel, which helps in dark scenes (we have not measured these TVs). Native panel is <strong>60Hz</strong> (120Hz is via DLG), and the listing does not say HDMI 2.1.", "specs": ["55-inch 4K QD-Mini LED, Fire TV", "3 HDMI ports, eARC", "Full-array local dimming, Dolby Vision, HDR10+"]},
+  {"asin": "B0GYD83B13", "role": "Biggest screen", "verdict": "A 65-inch set; the listing says 120Hz refresh (DLG 288Hz), VRR and a Game Master mode. It does not state HDMI 2.1, so check the manual's port list before counting on 4K120.", "specs": ["65-inch 4K LED, Google TV", "3 HDMI ports", "120Hz listed, Dolby Vision"]},
+  {"asin": "B0GTZ8WM5W", "role": "LG webOS, 60Hz", "verdict": "The listing shows ALLM and eARC on HDMI and a native <strong>60Hz</strong> panel. A sensible pick if you prefer LG's software and are happy with 4K60.", "specs": ["55-inch 4K, webOS 26", "3 HDMI with eARC and ALLM", "60Hz native, HDR10/HLG"]},
+  {"asin": "B0F7X5FC43", "role": "Sony brand", "verdict": "Sony's listing shows a Game Menu and ALLM/eARC (HDMI 2.1 compatible) on a 60Hz panel. It costs the most here; you are paying for the brand and picture processing, not extra gaming specs.", "specs": ["55-inch 4K, Google TV", "4 HDMI ports, ALLM/eARC", "60Hz, Dolby Atmos"]}
+ ],
+ "sections": [
+  {"h2": "How we ranked them", "p": ["We ranked on what a console can use: HDMI 2.1 ports first, then refresh rate, then game-mode features, then price. Picture quality beyond what the listing states is not rated because we have not tested these TVs. We do not show star ratings or reviews because we do not have our own to show.", "We did not include OLED TVs: the OLED models we could read on Amazon.in were priced well above this range and are not in our data yet. If you have a bigger budget, tell the <a href=\"@BASE@/#builder\">setup builder</a> your platform and it will show what fits."]},
+  {"h2": "What to check before you buy", "p": ["Use the HDMI 2.1 port on the TV for the PS5; on many sets only one or two ports support the full bandwidth. Turn on Game Mode, and on the PS5 set the video output to 4K with VRR if the TV supports it. Keep the cable short and certified: our <a href=\"@BASE@/products/#cable\">HDMI 2.1 cable list</a> has three options.", "Prices on Amazon.in move daily and sometimes by seller. The price beside each pick is the one we saw on the date shown."]},
+  {"h2": "PS5 or PS5 Pro?", "p": ["PlayStation lists a PS5 Pro Enhanced version of GTA 6 that needs a compatible display to show off. Read <a href=\"@BASE@/guides/ps5-vs-ps5-pro-gta-6/\">PS5 vs PS5 Pro for GTA 6</a> before deciding. Pair a TV with a <a href=\"@BASE@/guides/best-gaming-headset-under-5000-india/\">headset under ₹5,000</a> to finish the setup."]}
+ ],
+ "faq": [
+  {"q": "Do I need a 120Hz TV for GTA 6 on PS5?", "a": "Not necessarily. Rockstar's official pages we checked on 2026-11-19 do not list frame-rate or resolution modes, so we cannot say GTA 6 has a 120Hz mode. A 60Hz 4K TV with HDMI 2.1 features such as ALLM and VRR is a safe baseline; a 120Hz panel only helps in modes that support it."},
+  {"q": "Does the TV need HDMI 2.1?", "a": "HDMI 2.1 is what lets a PS5 send 4K at 120Hz and use VRR. If you only play at 4K60, HDMI 2.0 works. The Hisense 55E7Q and 55E75Q list HDMI 2.1 ports on Amazon.in."},
+  {"q": "What is ALLM and why does it matter?", "a": "ALLM (Auto Low Latency Mode) lets the console tell the TV to switch to its game mode automatically, which cuts input lag without you opening menus."},
+  {"q": "Is a 55-inch TV the right size?", "a": "For a typical living-room viewing distance of about 2 to 3 metres, 55 inches is a common choice. Go to 65 inches if you sit further back."},
+  {"q": "Is GTA 6 available on PC or PS4?", "a": "As of 2026-11-19, Rockstar's official page lists PlayStation 5 and Xbox Series X|S only, and PlayStation says GTA 6 will not be available on PS4. No PC version is listed."}
+ ]
+}

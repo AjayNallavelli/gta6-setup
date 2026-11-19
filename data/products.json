@@ -1,0 +1,755 @@
+{
+ "updated": "2026-11-19",
+ "currency": "INR",
+ "source": "amazon.in product pages",
+ "products": [
+  {
+   "asin": "B0GNMKL3VP",
+   "name": "Sony PlayStation 5 Slim console",
+   "amazon_title": "Sony PlayStation5 Gaming Console (Slim)",
+   "category": "console",
+   "platforms": [
+    "ps5"
+   ],
+   "rank": 1,
+   "why": "Sony's current PS5 (Slim). GTA 6 is listed for PS5 on Rockstar's and PlayStation's official pages.",
+   "price": null,
+   "price_checked": "2026-11-19",
+   "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
+   "source": "https://www.amazon.in/dp/B0GNMKL3VP",
+   "price_note": "Currently unavailable on Amazon.in when checked."
+  },
+  {
+   "asin": "B09NPR1GLZ",
+   "name": "Xbox Series S 512GB all-digital console",
+   "amazon_title": "Xbox Series S 512GB SSD All-Digital Gaming Console (disc Free) with 1 Wireless Controller - 10GB GDDR6 Memory, 8X Cores Custom Zen 2 CPU HDMI_Cable",
+   "category": "console",
+   "platforms": [
+    "xss"
+   ],
+   "rank": 1,
+   "why": "The cheapest way into Xbox Series X|S, which Rockstar lists for GTA 6. All-digital, 512GB internal storage.",
+   "price": null,
+   "price_checked": "2026-11-19",
+   "availability": null,
+   "source": "https://www.amazon.in/dp/B09NPR1GLZ",
+   "price_note": "No price shown on the Amazon.in page when checked."
+  },
+  {
+   "asin": "B08H75RTZ8",
+   "name": "Xbox Series X 1TB console",
+   "amazon_title": "Xbox Series X - Gaming Console - 1TB SSD - Includes Wireless Controller - 4K Gaming - 120FPS - Carbon Black.",
+   "category": "console",
+   "platforms": [
+    "xsx"
+   ],
+   "rank": 1,
+   "why": "Xbox Series X|S is a listed GTA 6 platform. Amazon.in only showed a third-party seller at an abnormal price when checked.",
+   "price": null,
+   "price_checked": "2026-11-19",
+   "availability": null,
+   "source": "https://www.amazon.in/dp/B08H75RTZ8",
+   "ignore_price": true,
+   "price_note": "Only a third-party seller (₹2,10,890 when checked), far above normal retail. Check Xbox.com or an authorised retailer."
+  },
+  {
+   "asin": "B0F6YVKDR2",
+   "name": "Xiaomi 55-inch X 4K Google TV (L55MB-AIN)",
+   "amazon_title": "Xiaomi (139 cm) 55 inch Smartchoice X 4K Ultra HD Smart | Dolby Vision | 120Hz Game Booster | Eye Care Mode | Google TV | L55MB-AIN",
+   "category": "tv",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 2,
+   "why": "Entry 55-inch 4K with Dolby Vision; listing mentions a 120Hz game booster (DLG) but a 60Hz native panel, and 3 HDMI ports.",
+   "price": 37999,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0F6YVKDR2",
+   "size_inch": "55"
+  },
+  {
+   "asin": "B0FJLSNZBW",
+   "name": "Hisense 55E75Q 55-inch 4K QLED",
+   "amazon_title": "Hisense 139 cm (55 Inches) 4K Ultra HD Smart Hi-QLED TV | 48W Speakers | Dolby Atmos & HDR10+ | World Fastest TV OS - VIDAA | 55E75Q (Black)",
+   "category": "tv",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 3,
+   "why": "Listing shows 3 HDMI 2.1 ports with ALLM and VRR on a QLED panel. Refresh rate is listed as 60Hz, so 4K120 is not advertised.",
+   "price": 36490,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0FJLSNZBW",
+   "size_inch": "55"
+  },
+  {
+   "asin": "B0GTZ8WM5W",
+   "name": "LG 55NU870BPLA 55-inch NU87 4K",
+   "amazon_title": "LG 139 cms (55 inches) NU87 AI Series Nano 4K Ultra HD (3840 x 2160) Smart webOS LED TV 55NU870BPLA 2026",
+   "category": "tv",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 3,
+   "why": "Listing shows ALLM and eARC on HDMI and LG's α7 processor. Native 60Hz, so no 4K120.",
+   "price": 45990,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0GTZ8WM5W",
+   "size_inch": "55"
+  },
+  {
+   "asin": "B0H2BWX52Y",
+   "name": "Xiaomi 55-inch FX QD-Mini LED 4K (L55MC-FSMIN)",
+   "amazon_title": "Xiaomi (139 cm) 55 inch Smartchoice FX 4K QD-Mini LED Smart | Full Array Local Dimming | HDR10+ | 120Hz DLG Game Booster | Fire TV | L55MC-FSMIN",
+   "category": "tv",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 4,
+   "why": "Quantum-dot Mini LED with full-array local dimming and HDR10+/Dolby Vision, the best contrast of the 55-inch picks here. 60Hz native (120Hz via DLG).",
+   "price": 44999,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0H2BWX52Y",
+   "size_inch": "55"
+  },
+  {
+   "asin": "B0F7X5FC43",
+   "name": "Sony BRAVIA 2M2 55-inch K-55S25BM2",
+   "amazon_title": "Sony 139 cm (55 inches) Smartchoice BRAVIA 2M2 Series 4K Ultra HD Smart LED Google TV K-55S25BM2",
+   "category": "tv",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 4,
+   "why": "Sony's 55-inch with a Game Menu and ALLM/eARC (HDMI 2.1 compatible) per the listing. 60Hz panel; you pay for the brand and processing.",
+   "price": 62990,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0F7X5FC43",
+   "size_inch": "55"
+  },
+  {
+   "asin": "B0GYD83B13",
+   "name": "iFFALCON 65-inch 65U75 4K Google TV",
+   "amazon_title": "iFFALCON 164 cm (65 Inches) 4K UHD Smart LED Google TV | 144Hz VRR | 3GB RAM | Dolby Vision & Atmos | Game Master | 65U75",
+   "category": "tv",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 5,
+   "why": "Largest screen here at 65 inches; listing says 120Hz refresh (DLG 288Hz) with VRR and a Game Master mode.",
+   "price": 49999,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0GYD83B13",
+   "size_inch": "65"
+  },
+  {
+   "asin": "B0F4WZWKSL",
+   "name": "Hisense 55E7Q 55-inch 4K QLED (144Hz)",
+   "amazon_title": "Hisense 139 cm (55 Inches) 4K Ultra HD Smart QLED TV | Dolby Vision Atmos, HDR10+ Adaptive | 144 Hz Game Mode Pro and 55E7Q (Charcoal Grey) | AI 4K Upscaler | VIDAA OS",
+   "category": "tv",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 6,
+   "why": "Best match for console gaming in this list: listing shows 3 HDMI 2.1 ports, a 144Hz Game Mode Pro and Dolby Vision on a QLED panel.",
+   "price": 42990,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0F4WZWKSL",
+   "size_inch": "55"
+  },
+  {
+   "asin": "B0DQP36N7T",
+   "name": "MSI MAG 255F E20 24.5-inch FHD 200Hz",
+   "amazon_title": "MSI MAG 255F E20 24.5-Inch (62.23cm) FHD 1920x1080 Gaming Monitor, Rapid IPS, 200Hz, 0.5ms, HDR Ready, AMD FreeSync Premium, AI Vision, HDMI 2.0b, DP 1.2a, Frame-Less, Black",
+   "category": "monitor",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 1,
+   "why": "Cheapest option here: Rapid IPS, 200Hz, HDMI 2.0b input listed at FHD@200Hz. Full HD only.",
+   "price": 8599,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0DQP36N7T"
+  },
+  {
+   "asin": "B0D4YPL67T",
+   "name": "LG 24GS60F 24-inch FHD 180Hz",
+   "amazon_title": "LG 24GS60F 60.5 cm(24 Inch) UltraGear FHD(1920x1080) IPS Gaming Monitor, 1ms, 180Hz, HDR10, sRGB 99%(Typ.), NVIDIA G-SYNC Compatible, AMD FreeSync, Anti-Glare, HDMI, DP, HP Out, Tilt Adjustable, Black",
+   "category": "monitor",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 2,
+   "why": "23.8-inch IPS, 180Hz, 1ms, HDR10 and 99% sRGB per the listing.",
+   "price": 9999,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0D4YPL67T"
+  },
+  {
+   "asin": "B0H69FXJC8",
+   "name": "Lenovo LOQ 24-10 24-inch FHD 200Hz",
+   "amazon_title": "Lenovo LOQ 24-10 (Smartchoice) | 23.8\" (60.45cm) FHD (1920x1080) IPS 200Hz Gaming Monitor | 0.5ms, HDR10 Compliance, AMD FreeSync, 99% sRGB, 2xHDMI 2.1 TMDS, 1xDP 1.4| Tilt | Lunar Grey | 68F1GACBIN",
+   "category": "monitor",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 2,
+   "why": "IPS, 200Hz, 0.5ms (MPRT) and 99% sRGB per the listing. Full HD.",
+   "price": 9799,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0H69FXJC8"
+  },
+  {
+   "asin": "B0HFSLVGBK",
+   "name": "LG 27G411B 27-inch FHD 144Hz",
+   "amazon_title": "LG 27G411B 68 cm (27 Inch) Ultragear FHD(1920 x 1080) IPS Gaming Monitor, 1ms MBR, 144Hz, HDR10, NVIDIA G-Sync Compatible, AMD FreeSync, HDR10, HDMI, DP, HP Out, Anti-Glare, Slim Stand, Black",
+   "category": "monitor",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 2,
+   "why": "27-inch IPS, 144Hz, 1ms MBR with a Dynamic Action Sync mode to cut input lag, per the listing. Full HD stretched over 27 inches.",
+   "price": 10599,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0HFSLVGBK"
+  },
+  {
+   "asin": "B0H696XFPH",
+   "name": "Lenovo LOQ 27Q-10 27-inch QHD 180Hz",
+   "amazon_title": "Lenovo LOQ 27Q-10 (Smartchoice) | 27\" (68.5cm) QHD (2560x1440) IPS 180Hz Gaming Monitor | 0.5ms, HDR10 Compliance, AMD FreeSync, 99% sRGB, 2xHDMI 2.1 TMDS, 1xDP 1.4| Tilt | Lunar Grey | 68F3GACBIN",
+   "category": "monitor",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 4,
+   "why": "QHD (2560x1440) IPS, 180Hz, and the listing shows 2 HDMI 2.1 ports. Sharper than Full HD at a modest price.",
+   "price": 14499,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0H696XFPH"
+  },
+  {
+   "asin": "B08B7VX691",
+   "name": "Acer Nitro VG270U Z2 27-inch QHD 275Hz",
+   "amazon_title": "Acer Nitro VG270U Z2 27 Inch QHD Gaming Monitor | IPS 2560x1440 | 275Hz Refresh Rate OC | DRR Support | 0.5ms GTG | DCI-P3 90% | HDR10 | AMD FreeSync Premium | HDMI 2.1, DP 1.4 | Dual 2W Speakers",
+   "category": "monitor",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 4,
+   "why": "QHD IPS with HDMI 2.1 and DisplayPort 1.4 per the listing, 90% DCI-P3 and HDR10.",
+   "price": 15999,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B08B7VX691"
+  },
+  {
+   "asin": "B0DCBDVNLD",
+   "name": "LG 32GS60QC 32-inch curved QHD 180Hz",
+   "amazon_title": "LG 32GS60QC 80cm (32 Inch) Ultragear Curved (1000R) QHD (2560x1440) Gaming Monitor, 180Hz, 1ms, 3-Side Virtually Borderless, Anti-Glare, DP, HDMI X 2, HP Out, AMD FreeSync™, Tilt Adjustment (Black)",
+   "category": "monitor",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 3,
+   "why": "32-inch curved VA panel at QHD, 180Hz, with 2 HDMI ports per the listing. Biggest desk screen under ₹20,000 here.",
+   "price": 19499,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0DCBDVNLD"
+  },
+  {
+   "asin": "B0GF2QG5K3",
+   "name": "Samsung Odyssey G5 27-inch QHD 180Hz",
+   "amazon_title": "Samsung 27\" Odyssey G5 Fast IPS Gaming Monitor (Smartchoice) | QHD 2560 x 1440 | 180 Hz | 1ms | 300nits| HDR10 | AMD FreeSync| G-Sync| Ports-DP,HDMI,Headphone| Ergonomic Stand | LS27FG502EWXXL | Black",
+   "category": "monitor",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 3,
+   "why": "QHD Fast IPS, 180Hz, HDR10 and a 3-year manufacturer warranty per the listing. HDMI 2.0 only.",
+   "price": 21699,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0GF2QG5K3"
+  },
+  {
+   "asin": "B0H7VRS6S9",
+   "name": "Acer Nitro XV270K V2 27-inch 4K 144Hz",
+   "amazon_title": "Acer Nitro XV270K V2 27 Inch 4K UHD IPS Gaming Monitor | 144Hz | DFR FHD 288Hz | 1ms VRB | HDR10 | 99% sRGB | AMD FreeSync Premium | Ergo Stand | HDMI 2.1 | DisplayPort | Smart Dial | Eye Care",
+   "category": "monitor",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 6,
+   "why": "True 4K IPS with 2 HDMI 2.1 ports per the listing: the monitor to pick for 4K at high refresh from a console.",
+   "price": 27999,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0H7VRS6S9"
+  },
+  {
+   "asin": "B0F18JLKZW",
+   "name": "PowerA LucidSound LS10P Gen 2 (wired)",
+   "amazon_title": "PowerA LucidSound LS10P Gen 2 Wired Gaming Headset with 50mm Drivers, Flip-to-Mute Mic, Tempest 3D Audio, Swivel cups, Lightweight & Glasses-Friendly for PS5, PS4 & PC, Black",
+   "category": "headset",
+   "platforms": [
+    "ps5"
+   ],
+   "rank": 1,
+   "why": "Wired PS5/PS4/PC headset with 50mm drivers, flip-to-mute mic and Tempest 3D Audio support per the listing. Cheapest here.",
+   "price": 2299,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0F18JLKZW",
+   "wireless": false
+  },
+  {
+   "asin": "B086PKMZ21",
+   "name": "Razer BlackShark V2 X (wired, 3.5mm)",
+   "amazon_title": "Razer BlackShark V2 X Smartchoice Wired Gaming Headset with Mic, 7.1 Surround Sound, 50mm Drivers, Memory Foam Cushions, Multi-Platform (PC/PS/Xbox/Switch/Mobile), 3.5mm Jack_Black",
+   "category": "headset",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 3,
+   "why": "3.5mm wired, 50mm drivers, memory-foam cushions; the listing says multi-platform (PC/PS/Xbox/Switch/Mobile).",
+   "price": 3999,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B086PKMZ21",
+   "wireless": false
+  },
+  {
+   "asin": "B07QB2Y272",
+   "name": "Logitech G431 (wired, USB + 3.5mm)",
+   "amazon_title": "Logitech G431 with 7.1 Surround Sound, DTS X 2.0, 50 mm Audio Drivers, USB and 3.5 mm Jack, Flip-to-Mute Mic Wired Over Ear Headphones with Mic for PC - Black",
+   "category": "headset",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 3,
+   "why": "50mm drivers and a flip-to-mute mic; the listing says consoles connect with the 3.5mm cable.",
+   "price": 4495,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B07QB2Y272",
+   "wireless": false
+  },
+  {
+   "asin": "B0DXQ8X9GT",
+   "name": "HyperX Cloud Jet dual wireless (2.4GHz + Bluetooth)",
+   "amazon_title": "HyperX Cloud Jet Smartchoice Dual Wireless Gaming Headset, 2.4GHz dongle, Bluetooth 5.2, PC, PS5, Nintendo Switch, Steam Deck, Mobile, USB-A, Black",
+   "category": "headset",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 3,
+   "why": "Wireless under ₹5,000: 2.4GHz USB-A dongle plus Bluetooth 5.2, swivel-to-mute mic; the title lists PS5.",
+   "price": 4999,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0DXQ8X9GT",
+   "wireless": true
+  },
+  {
+   "asin": "B00SAYCXWG",
+   "name": "HyperX Cloud II (wired)",
+   "amazon_title": "HyperX Cloud II Smartchoice Wired Gaming Headset for PC, PS5 / PS4. Active Noise Cancellation, Over Ear, circumaural, Closed Back, HyperX Virtual 7.1 Surround Sound - Black-Red (4P5M0AA)",
+   "category": "headset",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 4,
+   "why": "Long-running wired HyperX with virtual 7.1 surround and memory foam; the title lists PC and PS5/PS4.",
+   "price": 6299,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B00SAYCXWG",
+   "wireless": false
+  },
+  {
+   "asin": "B0C3BV19Q3",
+   "name": "HyperX Cloud III (wired, USB-C/USB-A/3.5mm)",
+   "amazon_title": "HyperX Cloud III–Smartchoice Wired Gaming Over Ear Headset, Pc, Ps5, Xbox Series X|S, Angled 53Mm Drivers, Memory Foam, Durable Frame, Ultra-Clear 10Mm Mic, USB-C, USB-A, 3.5Mm–Black/Red(727A9AA)",
+   "category": "headset",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 5,
+   "why": "Angled 53mm drivers and a 10mm mic; the title lists PS5 and Xbox Series X|S.",
+   "price": 7499,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0C3BV19Q3",
+   "wireless": false
+  },
+  {
+   "asin": "B0B4RNCRNS",
+   "name": "Logitech G535 Lightspeed wireless",
+   "amazon_title": "Logitech G535 Lightspeed Wireless Gaming Headset - Lightweight on-Ear Headphones, flip to Mute mic, Stereo, Compatible with PC, PS4, PS5, USB Rechargeable - Black",
+   "category": "headset",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 5,
+   "why": "Wireless USB dongle, 236g, 33 hours battery per the listing; compatible with PS4/PS5.",
+   "price": 7999,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0B4RNCRNS",
+   "wireless": true
+  },
+  {
+   "asin": "B0CNPD3NSK",
+   "name": "Sony INZONE H5 wireless",
+   "amazon_title": "Sony INZONE H5 Over Ear Wireless Gaming Headset,360 Spatial Sound,Works with PC,PS5,28 Hour Battery,2.4Ghz Wireless and 3.5mm Audio Jack,Bidirectional Boom Microphone,40mm Drivers,WH-G500/White",
+   "category": "headset",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 6,
+   "why": "Sony-made wireless headset with 360 Spatial Sound, 28-hour battery and 2.4GHz dongle; the listing says it works with PS5.",
+   "price": 11990,
+   "price_checked": "2026-11-19",
+   "availability": "Only 1 left in stock.",
+   "source": "https://www.amazon.in/dp/B0CNPD3NSK",
+   "wireless": true
+  },
+  {
+   "asin": "B0HN49PKLM",
+   "name": "EvoFox Play V PS5 controller (Hall effect sticks)",
+   "amazon_title": "EvoFox Play V PS5 Controller with Drift Resistent Hall Effect Sticks",
+   "category": "controller",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 1,
+   "why": "Third-party PS5 pad with drift-resistant Hall-effect sticks and a 10-hour battery per the listing. A cheap second pad.",
+   "price": 4299,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0HN49PKLM"
+  },
+  {
+   "asin": "B0HGGC5XGQ",
+   "name": "Sony DualSense Icon Blue (special edition)",
+   "amazon_title": "PS5 Dualsense Icon Blue Special Edition Controller",
+   "category": "controller",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 3,
+   "why": "Sony's own PS5 controller with haptics and adaptive triggers, in a special-edition colour (the standard DualSense listing was unavailable when checked).",
+   "price": 7490,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0HGGC5XGQ"
+  },
+  {
+   "asin": "B0BMPLHLZ9",
+   "name": "Sony DualSense Edge",
+   "amazon_title": "Sony Dualsense Edge Wireless Controller (Playstation 5)",
+   "category": "controller",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 5,
+   "why": "Remappable inputs, swappable back buttons and changeable stick caps per the listing. Pricey; for players who want the customisation.",
+   "price": 15990,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0BMPLHLZ9"
+  },
+  {
+   "asin": "B0FFGQ5KW8",
+   "name": "Xbox Wireless Controller, Carbon Black",
+   "amazon_title": "Microsoft Xbox Series X/S Wireless Controller - Carbon Black",
+   "category": "controller",
+   "platforms": [
+    "xsx",
+    "xss"
+   ],
+   "rank": 3,
+   "why": "The official Xbox controller for Series X|S: textured grips and a hybrid D-pad per the listing.",
+   "price": 6950,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0FFGQ5KW8"
+  },
+  {
+   "asin": "B0F2NCQYTX",
+   "name": "Xbox Wireless Controller, Robot White",
+   "amazon_title": "Xbox Wireless Controller – Robot White Series X|S, One, and Windows Devices",
+   "category": "controller",
+   "platforms": [
+    "xsx",
+    "xss"
+   ],
+   "rank": 3,
+   "why": "Same official Xbox controller in white.",
+   "price": 6990,
+   "price_checked": "2026-11-19",
+   "availability": "Only 1 left in stock.",
+   "source": "https://www.amazon.in/dp/B0F2NCQYTX"
+  },
+  {
+   "asin": "B0DV3C5HQH",
+   "name": "Crucial P310 1TB PCIe 4.0 NVMe SSD with heatsink",
+   "amazon_title": "Crucial P310 1TB PCIe Gen4 2280 NVMe M.2 SSD with heatsink",
+   "category": "storage",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 2,
+   "why": "M.2 2280 PCIe 4.0 NVMe, up to 7,100MB/s read, with heatsink per the listing: the form factor and heatsink the PS5's M.2 slot needs. Check Sony's M.2 requirements before buying.",
+   "price": 18389,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0DV3C5HQH"
+  },
+  {
+   "asin": "B0DV32WGWM",
+   "name": "Crucial P310 2TB PCIe 4.0 NVMe SSD with heatsink",
+   "amazon_title": "Crucial P310 2TB PCIe Gen4 2280 NVMe M.2 SSD with heatsink",
+   "category": "storage",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 3,
+   "why": "Same drive in 2TB: room for a few more 100GB+ games. Check Sony's M.2 requirements.",
+   "price": 41999,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0DV32WGWM"
+  },
+  {
+   "asin": "B0C47ZX1WB",
+   "name": "WD_BLACK SN850P 2TB for PS5",
+   "amazon_title": "WD_Black SN850P NVMe SSD for PS5 2TB, PCIe Gen 4, Upto 7300MB/s Read, Certified by Sony",
+   "category": "storage",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 4,
+   "why": "Listed as an officially licensed M.2 SSD for PS5 with a PS5-specific heatsink, up to 7,300MB/s read. The safest, most expensive choice.",
+   "price": 62499,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0C47ZX1WB"
+  },
+  {
+   "asin": "B0C44XVWCH",
+   "name": "WD_BLACK C50 1TB expansion card for Xbox",
+   "amazon_title": "WD Black C50 Expansion Card for Xbox 1TB",
+   "category": "storage",
+   "platforms": [
+    "xsx",
+    "xss"
+   ],
+   "rank": 3,
+   "why": "Xbox Series X|S games must run from internal SSD or an expansion card; the listing says the C50 matches internal storage performance. No price shown when checked.",
+   "price": null,
+   "price_checked": "2026-11-19",
+   "availability": null,
+   "source": "https://www.amazon.in/dp/B0C44XVWCH",
+   "price_note": "No price shown on the Amazon.in page when checked."
+  },
+  {
+   "asin": "B07VSG5SXZ",
+   "name": "Zebronics HDMI 2.1 cable, 2m",
+   "amazon_title": "ZEBRONICS HAA2021, 2.1, HDMI Cable, with Ethernet, 8K @ 60Hz UHD, 4K@ 144Hz UHD, 2 Meter (6.6ft),48 Gbps Ultra High Speed Transmission, Supports Dolby, DTS, 3D, eARC, CEC, Male-to-Male",
+   "category": "cable",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 1,
+   "why": "Listing says 48Gbps with 4K at 120Hz support. Cheapest HDMI 2.1 cable here.",
+   "price": 499,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B07VSG5SXZ"
+  },
+  {
+   "asin": "B08HRG2MB5",
+   "name": "Honeywell HDMI 2.1 cable, 2m",
+   "amazon_title": "Honeywell HDMI Cable 2.1 with Ethernet, 8k@60Hz, 4k@120Hz UHD Resolution, 2 Mtr(6.6ft), 48 GBPS Transmission Ultra High Speed, Dolby DTS, eARC,3D,Male-to-Male,Compatible with all HDMI-Enabled Devices",
+   "category": "cable",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 2,
+   "why": "Listing says 48Gbps, 4K@120Hz, ALLM, eARC.",
+   "price": 1229,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B08HRG2MB5"
+  },
+  {
+   "asin": "B0CFFFSFFN",
+   "name": "UGREEN 8K HDMI 2.1 cable, 2m",
+   "amazon_title": "UGREEN 8K HDMI 2.1 Cable 48Gbps 2M, Certified Ultra High Speed HDMI Cord",
+   "category": "cable",
+   "platforms": [
+    "ps5",
+    "ps5pro",
+    "xsx",
+    "xss"
+   ],
+   "rank": 3,
+   "why": "Listing says it carries the HDMI 2.1 Ultra High Speed certification at 48Gbps, with eARC.",
+   "price": 1564,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0CFFFSFFN"
+  },
+  {
+   "asin": "B0F8MZV8PK",
+   "name": "Zebronics PS5C dual dock",
+   "amazon_title": "ZEBRONICS PS5C, PS5 Controller Charging Dock, 3H Rapid Charging, Supports Dualsense & Edge Controllers, Dual Pogo Pin, Charging Indicators, Anti-Slip Silicone Base",
+   "category": "charger",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 1,
+   "why": "Charges two DualSense or DualSense Edge controllers at once via pogo pins, per the listing.",
+   "price": 999,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0F8MZV8PK"
+  },
+  {
+   "asin": "B0C8RGL1JG",
+   "name": "PowerA Solo charging station for DualSense",
+   "amazon_title": "PowerA Solo Charging Station For PS5 DualSense & DualSense Edge Wireless Controllers, USB Cable Included, Weighted Base (Officially Licensed)",
+   "category": "charger",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 2,
+   "why": "PlayStation-licensed single dock with a weighted base, per the listing.",
+   "price": 1299,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0C8RGL1JG"
+  },
+  {
+   "asin": "B0DP6N7ZCF",
+   "name": "PowerA Twin charging station for DualSense",
+   "amazon_title": "PowerA Twin Charging Station for PS5 DualSense and DualSense Edge Wireless Controllers, AC Adaptor Included, with LED Indicator, Vertical Dual Controller Fast Charging Dock (Officially Licensed)",
+   "category": "charger",
+   "platforms": [
+    "ps5",
+    "ps5pro"
+   ],
+   "rank": 3,
+   "why": "PlayStation-licensed dock for two controllers, AC adaptor included, per the listing.",
+   "price": 1925,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B0DP6N7ZCF"
+  },
+  {
+   "asin": "B08HLWNLDH",
+   "name": "Xbox Play and Charge Kit V2 (USB-C)",
+   "amazon_title": "Microsoft Xbox Play With Charge Kit V2 With Cable (Type-C), USB Type C, Black",
+   "category": "charger",
+   "platforms": [
+    "xsx",
+    "xss"
+   ],
+   "rank": 2,
+   "why": "Rechargeable battery pack and USB-C cable for the Xbox controller, per the listing.",
+   "price": 2499,
+   "price_checked": "2026-11-19",
+   "availability": "In stock",
+   "source": "https://www.amazon.in/dp/B08HLWNLDH"
+  }
+ ]
+}

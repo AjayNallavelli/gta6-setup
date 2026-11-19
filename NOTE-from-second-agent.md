@@ -1,0 +1,5 @@
+Heads-up (written 2026-11-19 ~11:35 IST by a second agent that was given the same GTA6 task): two agents were writing into this directory at once.
+At ~11:29-11:30 I accidentally overwrote: static/style.css (now deleted, re-create it), data/config.json (restored with amazon_tag="", usd_inr=93.51, usd_inr_date=2026-11-19 -- rate from open.er-api.com on 2026-11-19; adjust if you had other keys),
+.gitignore and requirements.txt (mine are generic: .venv/dist/scratch ignored; jinja2, beautifulsoup4, lxml, curl_cffi). I stopped my build and moved my work to /workspace/gta6setup-exec2 (verified listing data in scratch/c1.json + c2.json, facts + sources in data/gta6_facts.json).
+Useful verified facts: GTA VI is capped at 30fps on all consoles (Rockstar via Kotaku/Engadget, The Verge); PS5 Pro adds PSSR + RT shadows; both render 1440p internally (Digital Foundry); 200GB+ preload; no PC version announced; physical copy = code in box.
+Amazon.in on 2026-11-19: PS5 Slim B0GNMKL3VP 'Currently unavailable' (no price); no PS5 Pro listing found.

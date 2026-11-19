@@ -1,0 +1,29 @@
+{% extends "base.html" %}{% import "_card.html" as c %}
+{% block body %}
+<nav class="crumb small muted"><a href="{{ base }}/">Home</a> › <a href="{{ base }}/guides/">Guides</a></nav>
+<article class="guide">
+<h1>{{ g.h1 }}</h1>
+<p class="muted small">Updated {{ g.updated }} · Prices from Amazon.in, checked on the date beside each one</p>
+<div class="answer"><strong>Short answer:</strong> {{ g.answer|safe }}</div>
+{% for para in g.intro %}<p>{{ para|safe }}</p>{% endfor %}
+<p class="notice small">Affiliate disclosure: as an Amazon Associate we earn from qualifying purchases. Picks are chosen on specs and price, not on commission.</p>
+<h2>The picks</h2>
+{% for p in picks %}
+<div class="pick">
+  <div class="pick-h"><span class="role">{{ p.role }}</span></div>
+  <h3>{{ p.name }}</h3>
+  <p>{{ p.verdict|safe }}</p>
+  {% if p.specs %}<ul class="specs small">{% for s in p.specs %}<li>{{ s }}</li>{% endfor %}</ul>{% endif %}
+  <p>{{ c.price(p) }}</p>
+  <p>{{ c.buy(p) }} <span class="muted small">ASIN {{ p.asin }}</span></p>
+</div>
+{% endfor %}
+{% for s in g.sections %}<h2>{{ s.h2 }}</h2>{% for para in s.p %}<p>{{ para|safe }}</p>{% endfor %}{% endfor %}
+<h2>FAQ</h2>
+{% for q in g.faq %}<details class="faq"><summary>{{ q.q }}</summary><p>{{ q.a }}</p></details>{% endfor %}
+<div class="cta"><strong>Not sure what fits your budget?</strong> <a class="btn" href="{{ base }}/#builder">Open the setup builder</a></div>
+<h2>More guides</h2>
+<ul>{% for o in guides if o.slug != g.slug %}<li><a href="{{ base }}/guides/{{ o.slug }}/">{{ o.h1 }}</a></li>{% endfor %}</ul>
+<p class="small muted">GTA 6 platform and release facts: <a href="{{ base }}/gta-6-platforms-release-date/">official sources, checked {{ facts.checked }}</a>. This site is not affiliated with Rockstar Games.</p>
+</article>
+{% endblock %}

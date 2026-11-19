@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block body %}
+<h1>GTA 6 buying guides for India</h1>
+<p class="lead">Each guide uses products and prices checked on Amazon.in, says why it picked them, and links back to the <a href="{{ base }}/#builder">budget builder</a>.</p>
+<div class="grid">
+{% for g in guides %}<a class="gcard" href="{{ base }}/guides/{{ g.slug }}/"><strong>{{ g.h1 }}</strong><span class="muted small">{{ g.card }}</span><span class="muted small">Updated {{ g.updated }}</span></a>{% endfor %}
+</div>
+{% endblock %}

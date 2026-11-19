@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block body %}
+<h1>About, affiliate disclosure and how prices are checked</h1>
+<h2>Who we are</h2>
+<p>GTA 6 Setup Builder is a small independent site that helps console players in India pick a TV or monitor, headset, controller, storage and cables for Grand Theft Auto VI within a budget. It is run by one person with automation help.</p>
+<h2>Not affiliated</h2>
+<p>This site is not affiliated with, endorsed by or sponsored by Rockstar Games, Take-Two Interactive, Sony Interactive Entertainment, Microsoft or Amazon. Game and platform names belong to their owners.</p>
+<h2>Affiliate disclosure</h2>
+<p><strong>As an Amazon Associate we earn from qualifying purchases.</strong> Product links go to Amazon.in and are marked “Affiliate link” with <code>rel="sponsored nofollow noopener"</code>. If you buy after clicking, we may earn a commission at no extra cost to you. Commission does not decide which product we recommend; the builder ranks by specs, price and fit.{% if not tag %} <em>At the moment the links carry no tracking ID, so clicks earn nothing; this will change once our Associates account is active.</em>{% endif %}</p>
+<h2>How prices are checked</h2>
+<p>A script reads each product page on Amazon.in once a day and records the price shown, with the date. If Amazon blocks the check, we keep the last good price and its date instead of guessing. Prices change often and may differ by seller, pincode and time. Always confirm on Amazon before you buy. Where we could not read a price, the product says “Check price”.</p>
+<h2>No fake reviews</h2>
+<p>We do not show star ratings, review counts or testimonials. "Why it is recommended" lines are based on the specifications listed on the product page.</p>
+<h2>GTA 6 facts</h2>
+<p>Platforms and release date come from Rockstar Games and PlayStation's official pages; see <a href="{{ base }}/gta-6-platforms-release-date/">platforms and release date</a> with sources and the date checked.</p>
+<h2>Analytics</h2>
+<p>We use Google Analytics 4 to count visits and clicks on Amazon links. We do not run ads and do not collect what you type into the builder.</p>
+<h2>Contact</h2>
+<p>{{ site.contact_email }}</p>
+{% endblock %}

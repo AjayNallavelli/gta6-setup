@@ -1,0 +1,29 @@
+{
+ "order": 4, "slug": "ps5-vs-ps5-pro-gta-6", "published": "2026-11-19", "updated": "2026-11-19",
+ "title": "PS5 vs PS5 Pro for GTA 6: what the official pages say and what to buy (India, 2026)",
+ "h1": "PS5 vs PS5 Pro for GTA 6",
+ "card": "What PlayStation and Rockstar actually state, what we do not know, and where the money is better spent.",
+ "description": "PS5 vs PS5 Pro for Grand Theft Auto VI: the official PlayStation and Rockstar statements (PSSR, ray-traced shadows, release date), what is still unknown, and how to spend a budget in India.",
+ "answer": "GTA 6 is listed for both PS5 and PS5 Pro. PlayStation's page says the PS5 Pro version adds <strong>PSSR upscaling and ray-traced shadows</strong>, but neither Rockstar nor PlayStation publishes frame-rate or resolution numbers on the pages we read. If you already own a PS5, play on it. If you are buying new and have a good 4K display, the Pro is the version with the extra visual features.",
+ "intro": [
+  "Facts first, checked 2026-11-19. <strong>Rockstar Games</strong> lists Grand Theft Auto VI for PlayStation 5 and Xbox Series X|S with a November 19, 2026 release date, and shows a \"Plays best on PlayStation 5\" badge. <strong>PlayStation's</strong> store page lists the game as available on PS5, with a <strong>PS5 Pro Enhanced</strong> version, and its FAQ says GTA 6 will only be playable on PS5 consoles and not on PS4. See <a href=\"@BASE@/gta-6-platforms-release-date/\">platforms and release date</a> for the quotes and links.",
+  "PlayStation describes the PS5 Pro Enhanced version as improved clarity through PlayStation Spectral Super Resolution (PSSR) and ray-traced shadows, and says a compatible display is required. It does not publish frame rates or resolutions on that page, and neither do we."
+ ],
+ "picks": [
+  {"asin": "B0GNMKL3VP", "role": "PS5 (Slim) on Amazon.in", "verdict": "The standard PS5 plays GTA 6 per both official pages. On the date shown the Amazon.in page said it was currently unavailable, so we show no price. Check Amazon, Sony's own store and authorised retailers.", "specs": ["PS5 Slim console", "Listed GTA 6 platform", "Amazon.in availability changes often"]},
+  {"asin": "B0F4WZWKSL", "role": "Display that suits either console", "verdict": "A TV with HDMI 2.1 and a 144Hz game mode is the safest match for either console, since PS5 Pro Enhanced needs a compatible display. See the <a href=\"@BASE@/guides/best-tv-for-gta-6-ps5-india/\">TV guide</a>.", "specs": ["55-inch 4K QLED", "3x HDMI 2.1", "144Hz Game Mode Pro"]},
+  {"asin": "B0DV3C5HQH", "role": "Extra storage for PS5 and PS5 Pro", "verdict": "GTA-sized games are big. An M.2 SSD with heatsink adds room; check Sony's M.2 requirements before buying. Both the PS5 and PS5 Pro have the expansion slot.", "specs": ["1TB PCIe 4.0 NVMe M.2 2280", "Up to 7,100MB/s read", "Heatsink included"]}
+ ],
+ "sections": [
+  {"h2": "What we can say about the Pro", "p": ["The PS5 Pro is Sony's higher-end console and PlayStation lists a Pro-specific version of GTA 6. We cannot tell you the frame rate or resolution it hits, because the official pages do not say. Treat any specific figures you see on social media as unconfirmed unless they cite Rockstar or PlayStation.", "The PS5 Pro is sold without a disc drive in the box (a detachable drive is sold separately), which matters if you plan to buy a physical copy. We did not find a PS5 Pro listing on Amazon.in when we searched on 2026-11-19, so check Sony's India store and authorised retailers for its price and stock."]},
+  {"h2": "Where a limited budget goes further", "p": ["If you must choose between a Pro and a better display, remember that PS5 Pro Enhanced needs a compatible display to benefit. A 4K TV with HDMI 2.1 (<a href=\"@BASE@/guides/best-tv-for-gta-6-ps5-india/\">TV picks</a>) or a QHD monitor (<a href=\"@BASE@/guides/best-monitor-for-ps5-under-20000-india/\">monitor picks</a>) improves every game, not just one. A <a href=\"@BASE@/guides/best-gaming-headset-under-5000-india/\">headset under ₹5,000</a> is the cheapest upgrade for night play.", "Use the <a href=\"@BASE@/#builder\">setup builder</a> and choose PS5 or PS5 Pro to see a budget split. The builder does not count a console it cannot price."]},
+  {"h2": "Game price check", "p": ["PlayStation's US store page showed $79.99 for the Standard Edition and $99.99 for the Ultimate Edition when we checked on 2026-11-19 (US prices, not India). Pre-ordered digital editions list a month of GTA+ per the page. Indian pricing was not checked."]}
+ ],
+ "faq": [
+  {"q": "Is GTA 6 coming to PS5 and PS5 Pro?", "a": "Yes. PlayStation's store page says GTA 6 is released for PlayStation 5 and PS5 Pro on November 19, 2026, and lists a PS5 Pro Enhanced version. Source: playstation.com, checked 2026-11-19."},
+  {"q": "What does PS5 Pro Enhanced mean for GTA 6?", "a": "PlayStation says playing GTA 6 on PS5 Pro offers improved clarity through PSSR (PlayStation Spectral Super Resolution) and ray-traced shadows, and that a compatible display is required."},
+  {"q": "Will GTA 6 run at 60fps on PS5?", "a": "We do not know. The Rockstar and PlayStation pages we checked on 2026-11-19 do not publish frame rates or resolutions, so we do not state any."},
+  {"q": "Is GTA 6 on PS4, Xbox One or PC?", "a": "No. PlayStation says it will only be playable on PS5 consoles and not on PS4. Rockstar's page lists PlayStation 5 and Xbox Series X|S, and we found no PC version announced there."},
+  {"q": "Should I buy a PS5 Pro just for GTA 6?", "a": "If you have a PS5 already, nothing official says you need to. A Pro adds the PS5 Pro Enhanced features PlayStation describes, but only a compatible display shows them. Without published performance numbers, a better display or SSD is a safer spend."}
+ ]
+}
