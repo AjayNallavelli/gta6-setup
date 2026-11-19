@@ -216,10 +216,13 @@
    ],
    "rank": 2,
    "why": "23.8-inch IPS, 180Hz, 1ms, HDR10 and 99% sRGB per the listing.",
-   "price": 9999,
+   "price": null,
    "price_checked": "2026-11-19",
-   "availability": "In stock",
-   "source": "https://www.amazon.in/dp/B0D4YPL67T"
+   "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
+   "source": "https://www.amazon.in/dp/B0D4YPL67T",
+   "last_price": 9999,
+   "last_price_date": "2026-11-19",
+   "price_note": "Currently unavailable on Amazon.in when checked."
   },
   {
    "asin": "B0H69FXJC8",
