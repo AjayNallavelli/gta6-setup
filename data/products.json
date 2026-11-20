@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "currency": "INR",
  "source": "amazon.in product pages",
  "products": [
@@ -30,7 +30,7 @@
    "rank": 1,
    "why": "The cheapest way into Xbox Series X|S, which Rockstar lists for GTA 6. All-digital, 512GB internal storage.",
    "price": null,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-20",
    "availability": null,
    "source": "https://www.amazon.in/dp/B09NPR1GLZ",
    "price_note": "No price shown on the Amazon.in page when checked."
@@ -66,7 +66,7 @@
    "rank": 2,
    "why": "Entry 55-inch 4K with Dolby Vision; listing mentions a 120Hz game booster (DLG) but a 60Hz native panel, and 3 HDMI ports.",
    "price": 37999,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-20",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0F6YVKDR2",
    "size_inch": "55"
@@ -256,7 +256,7 @@
    "rank": 2,
    "why": "27-inch IPS, 144Hz, 1ms MBR with a Dynamic Action Sync mode to cut input lag, per the listing. Full HD stretched over 27 inches.",
    "price": 10599,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-20",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0HFSLVGBK"
   },
@@ -292,7 +292,7 @@
    "rank": 4,
    "why": "QHD IPS with HDMI 2.1 and DisplayPort 1.4 per the listing, 90% DCI-P3 and HDR10.",
    "price": 15999,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-20",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B08B7VX691"
   },
@@ -310,7 +310,7 @@
    "rank": 3,
    "why": "32-inch curved VA panel at QHD, 180Hz, with 2 HDMI ports per the listing. Biggest desk screen under ₹20,000 here.",
    "price": 19499,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-20",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0DCBDVNLD"
   },
@@ -346,7 +346,7 @@
    "rank": 6,
    "why": "True 4K IPS with 2 HDMI 2.1 ports per the listing: the monitor to pick for 4K at high refresh from a console.",
    "price": 27999,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-20",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0H7VRS6S9"
   },
@@ -631,10 +631,10 @@
    "rank": 3,
    "why": "Xbox Series X|S games must run from internal SSD or an expansion card; the listing says the C50 matches internal storage performance. No price shown when checked.",
    "price": null,
-   "price_checked": "2026-11-19",
-   "availability": null,
+   "price_checked": "2026-11-20",
+   "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
    "source": "https://www.amazon.in/dp/B0C44XVWCH",
-   "price_note": "No price shown on the Amazon.in page when checked."
+   "price_note": "Currently unavailable on Amazon.in when checked."
   },
   {
    "asin": "B07VSG5SXZ",
@@ -668,7 +668,7 @@
    "rank": 2,
    "why": "Listing says 48Gbps, 4K@120Hz, ALLM, eARC.",
    "price": 1229,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-20",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B08HRG2MB5"
   },
