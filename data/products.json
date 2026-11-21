@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "currency": "INR",
  "source": "amazon.in product pages",
  "products": [
@@ -85,7 +85,7 @@
    "rank": 3,
    "why": "Listing shows 3 HDMI 2.1 ports with ALLM and VRR on a QLED panel. Refresh rate is listed as 60Hz, so 4K120 is not advertised.",
    "price": 36490,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-21",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0FJLSNZBW",
    "size_inch": "55"
@@ -198,10 +198,13 @@
    ],
    "rank": 1,
    "why": "Cheapest option here: Rapid IPS, 200Hz, HDMI 2.0b input listed at FHD@200Hz. Full HD only.",
-   "price": 8599,
-   "price_checked": "2026-11-19",
-   "availability": "In stock",
-   "source": "https://www.amazon.in/dp/B0DQP36N7T"
+   "price": null,
+   "price_checked": "2026-11-21",
+   "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
+   "source": "https://www.amazon.in/dp/B0DQP36N7T",
+   "last_price": 8599,
+   "last_price_date": "2026-11-19",
+   "price_note": "Currently unavailable on Amazon.in when checked."
   },
   {
    "asin": "B0D4YPL67T",
@@ -550,9 +553,9 @@
    ],
    "rank": 3,
    "why": "The official Xbox controller for Series X|S: textured grips and a hybrid D-pad per the listing.",
-   "price": 6950,
-   "price_checked": "2026-11-19",
-   "availability": "In stock",
+   "price": 6890,
+   "price_checked": "2026-11-21",
+   "availability": "Only 2 left in stock.",
    "source": "https://www.amazon.in/dp/B0FFGQ5KW8"
   },
   {
@@ -702,7 +705,7 @@
    "rank": 1,
    "why": "Charges two DualSense or DualSense Edge controllers at once via pogo pins, per the listing.",
    "price": 999,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-21",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0F8MZV8PK"
   },
@@ -734,7 +737,7 @@
    "rank": 3,
    "why": "PlayStation-licensed dock for two controllers, AC adaptor included, per the listing.",
    "price": 1925,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-21",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0DP6N7ZCF"
   },
