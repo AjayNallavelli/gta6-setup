@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "currency": "INR",
  "source": "amazon.in product pages",
  "products": [
@@ -30,7 +30,7 @@
    "rank": 1,
    "why": "The cheapest way into Xbox Series X|S, which Rockstar lists for GTA 6. All-digital, 512GB internal storage.",
    "price": null,
-   "price_checked": "2026-11-20",
+   "price_checked": "2026-11-22",
    "availability": null,
    "source": "https://www.amazon.in/dp/B09NPR1GLZ",
    "price_note": "No price shown on the Amazon.in page when checked."
@@ -46,8 +46,8 @@
    "rank": 1,
    "why": "Xbox Series X|S is a listed GTA 6 platform. Amazon.in only showed a third-party seller at an abnormal price when checked.",
    "price": null,
-   "price_checked": "2026-11-19",
-   "availability": null,
+   "price_checked": "2026-11-22",
+   "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
    "source": "https://www.amazon.in/dp/B08H75RTZ8",
    "ignore_price": true,
    "price_note": "Only a third-party seller (₹2,10,890 when checked), far above normal retail. Check Xbox.com or an authorised retailer."
@@ -161,7 +161,7 @@
    "rank": 5,
    "why": "Largest screen here at 65 inches; listing says 120Hz refresh (DLG 288Hz) with VRR and a Game Master mode.",
    "price": 49999,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-22",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0GYD83B13",
    "size_inch": "65"
@@ -349,7 +349,7 @@
    "rank": 6,
    "why": "True 4K IPS with 2 HDMI 2.1 ports per the listing: the monitor to pick for 4K at high refresh from a console.",
    "price": 27999,
-   "price_checked": "2026-11-20",
+   "price_checked": "2026-11-22",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0H7VRS6S9"
   },
@@ -383,7 +383,7 @@
    "rank": 3,
    "why": "3.5mm wired, 50mm drivers, memory-foam cushions; the listing says multi-platform (PC/PS/Xbox/Switch/Mobile).",
    "price": 3999,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-22",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B086PKMZ21",
    "wireless": false
@@ -402,7 +402,7 @@
    "rank": 3,
    "why": "50mm drivers and a flip-to-mute mic; the listing says consoles connect with the 3.5mm cable.",
    "price": 4495,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-22",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B07QB2Y272",
    "wireless": false
@@ -436,7 +436,7 @@
    "rank": 4,
    "why": "Long-running wired HyperX with virtual 7.1 surround and memory foam; the title lists PC and PS5/PS4.",
    "price": 6299,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-22",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B00SAYCXWG",
    "wireless": false
@@ -506,7 +506,7 @@
    "rank": 1,
    "why": "Third-party PS5 pad with drift-resistant Hall-effect sticks and a 10-hour battery per the listing. A cheap second pad.",
    "price": 4299,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-22",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0HN49PKLM"
   },
@@ -653,7 +653,7 @@
    "rank": 1,
    "why": "Listing says 48Gbps with 4K at 120Hz support. Cheapest HDMI 2.1 cable here.",
    "price": 499,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-22",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B07VSG5SXZ"
   },
