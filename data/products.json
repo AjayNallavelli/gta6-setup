@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "currency": "INR",
  "source": "amazon.in product pages",
  "products": [
@@ -161,7 +161,7 @@
    "rank": 5,
    "why": "Largest screen here at 65 inches; listing says 120Hz refresh (DLG 288Hz) with VRR and a Game Master mode.",
    "price": 49999,
-   "price_checked": "2026-11-22",
+   "price_checked": "2026-11-23",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0GYD83B13",
    "size_inch": "65"
@@ -436,7 +436,7 @@
    "rank": 4,
    "why": "Long-running wired HyperX with virtual 7.1 surround and memory foam; the title lists PC and PS5/PS4.",
    "price": 6299,
-   "price_checked": "2026-11-22",
+   "price_checked": "2026-11-23",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B00SAYCXWG",
    "wireless": false
@@ -455,7 +455,7 @@
    "rank": 5,
    "why": "Angled 53mm drivers and a 10mm mic; the title lists PS5 and Xbox Series X|S.",
    "price": 7499,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-23",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0C3BV19Q3",
    "wireless": false
@@ -521,10 +521,13 @@
    ],
    "rank": 3,
    "why": "Sony's own PS5 controller with haptics and adaptive triggers, in a special-edition colour (the standard DualSense listing was unavailable when checked).",
-   "price": 7490,
-   "price_checked": "2026-11-19",
-   "availability": "In stock",
-   "source": "https://www.amazon.in/dp/B0HGGC5XGQ"
+   "price": null,
+   "price_checked": "2026-11-23",
+   "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
+   "source": "https://www.amazon.in/dp/B0HGGC5XGQ",
+   "last_price": 7490,
+   "last_price_date": "2026-11-19",
+   "price_note": "Currently unavailable on Amazon.in when checked."
   },
   {
    "asin": "B0BMPLHLZ9",
@@ -553,8 +556,8 @@
    ],
    "rank": 3,
    "why": "The official Xbox controller for Series X|S: textured grips and a hybrid D-pad per the listing.",
-   "price": 6890,
-   "price_checked": "2026-11-21",
+   "price": 6990,
+   "price_checked": "2026-11-23",
    "availability": "Only 2 left in stock.",
    "source": "https://www.amazon.in/dp/B0FFGQ5KW8"
   },
@@ -570,7 +573,7 @@
    "rank": 3,
    "why": "Same official Xbox controller in white.",
    "price": 6990,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-23",
    "availability": "Only 1 left in stock.",
    "source": "https://www.amazon.in/dp/B0F2NCQYTX"
   },
@@ -601,8 +604,8 @@
    ],
    "rank": 3,
    "why": "Same drive in 2TB: room for a few more 100GB+ games. Check Sony's M.2 requirements.",
-   "price": 41999,
-   "price_checked": "2026-11-19",
+   "price": 41499,
+   "price_checked": "2026-11-23",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0DV32WGWM"
   },
@@ -618,7 +621,7 @@
    "rank": 4,
    "why": "Listed as an officially licensed M.2 SSD for PS5 with a PS5-specific heatsink, up to 7,300MB/s read. The safest, most expensive choice.",
    "price": 62499,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-23",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0C47ZX1WB"
   },
@@ -737,7 +740,7 @@
    "rank": 3,
    "why": "PlayStation-licensed dock for two controllers, AC adaptor included, per the listing.",
    "price": 1925,
-   "price_checked": "2026-11-21",
+   "price_checked": "2026-11-23",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0DP6N7ZCF"
   },
@@ -753,7 +756,7 @@
    "rank": 2,
    "why": "Rechargeable battery pack and USB-C cable for the Xbox controller, per the listing.",
    "price": 2499,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-23",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B08HLWNLDH"
   }
