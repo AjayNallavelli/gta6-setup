@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "currency": "INR",
  "source": "amazon.in product pages",
  "products": [
@@ -14,7 +14,7 @@
    "rank": 1,
    "why": "Sony's current PS5 (Slim). GTA 6 is listed for PS5 on Rockstar's and PlayStation's official pages.",
    "price": null,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-24",
    "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
    "source": "https://www.amazon.in/dp/B0GNMKL3VP",
    "price_note": "Currently unavailable on Amazon.in when checked."
@@ -259,7 +259,7 @@
    "rank": 2,
    "why": "27-inch IPS, 144Hz, 1ms MBR with a Dynamic Action Sync mode to cut input lag, per the listing. Full HD stretched over 27 inches.",
    "price": 10599,
-   "price_checked": "2026-11-20",
+   "price_checked": "2026-11-24",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0HFSLVGBK"
   },
@@ -349,7 +349,7 @@
    "rank": 6,
    "why": "True 4K IPS with 2 HDMI 2.1 ports per the listing: the monitor to pick for 4K at high refresh from a console.",
    "price": 27999,
-   "price_checked": "2026-11-22",
+   "price_checked": "2026-11-24",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0H7VRS6S9"
   },
@@ -364,7 +364,7 @@
    "rank": 1,
    "why": "Wired PS5/PS4/PC headset with 50mm drivers, flip-to-mute mic and Tempest 3D Audio support per the listing. Cheapest here.",
    "price": 2299,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-24",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0F18JLKZW",
    "wireless": false
@@ -436,7 +436,7 @@
    "rank": 4,
    "why": "Long-running wired HyperX with virtual 7.1 surround and memory foam; the title lists PC and PS5/PS4.",
    "price": 6299,
-   "price_checked": "2026-11-23",
+   "price_checked": "2026-11-24",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B00SAYCXWG",
    "wireless": false
@@ -490,7 +490,7 @@
    "why": "Sony-made wireless headset with 360 Spatial Sound, 28-hour battery and 2.4GHz dongle; the listing says it works with PS5.",
    "price": 11990,
    "price_checked": "2026-11-19",
-   "availability": "Only 1 left in stock.",
+   "availability": "Available to ship in 1-2 days",
    "source": "https://www.amazon.in/dp/B0CNPD3NSK",
    "wireless": true
   },
@@ -691,8 +691,8 @@
    ],
    "rank": 3,
    "why": "Listing says it carries the HDMI 2.1 Ultra High Speed certification at 48Gbps, with eARC.",
-   "price": 1564,
-   "price_checked": "2026-11-19",
+   "price": 1839,
+   "price_checked": "2026-11-24",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0CFFFSFFN"
   },
@@ -724,8 +724,8 @@
    "rank": 2,
    "why": "PlayStation-licensed single dock with a weighted base, per the listing.",
    "price": 1299,
-   "price_checked": "2026-11-19",
-   "availability": "In stock",
+   "price_checked": "2026-11-24",
+   "availability": "Only 1 left in stock.",
    "source": "https://www.amazon.in/dp/B0C8RGL1JG"
   },
   {
