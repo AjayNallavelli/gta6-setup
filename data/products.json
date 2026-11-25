@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "currency": "INR",
  "source": "amazon.in product pages",
  "products": [
@@ -161,7 +161,7 @@
    "rank": 5,
    "why": "Largest screen here at 65 inches; listing says 120Hz refresh (DLG 288Hz) with VRR and a Game Master mode.",
    "price": 49999,
-   "price_checked": "2026-11-23",
+   "price_checked": "2026-11-25",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0GYD83B13",
    "size_inch": "65"
@@ -180,7 +180,7 @@
    "rank": 6,
    "why": "Best match for console gaming in this list: listing shows 3 HDMI 2.1 ports, a 144Hz Game Mode Pro and Dolby Vision on a QLED panel.",
    "price": 42990,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-25",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0F4WZWKSL",
    "size_inch": "55"
@@ -220,7 +220,7 @@
    "rank": 2,
    "why": "23.8-inch IPS, 180Hz, 1ms, HDR10 and 99% sRGB per the listing.",
    "price": null,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-25",
    "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
    "source": "https://www.amazon.in/dp/B0D4YPL67T",
    "last_price": 9999,
@@ -259,7 +259,7 @@
    "rank": 2,
    "why": "27-inch IPS, 144Hz, 1ms MBR with a Dynamic Action Sync mode to cut input lag, per the listing. Full HD stretched over 27 inches.",
    "price": 10599,
-   "price_checked": "2026-11-24",
+   "price_checked": "2026-11-25",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0HFSLVGBK"
   },
@@ -349,7 +349,7 @@
    "rank": 6,
    "why": "True 4K IPS with 2 HDMI 2.1 ports per the listing: the monitor to pick for 4K at high refresh from a console.",
    "price": 27999,
-   "price_checked": "2026-11-24",
+   "price_checked": "2026-11-25",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0H7VRS6S9"
   },
@@ -364,7 +364,7 @@
    "rank": 1,
    "why": "Wired PS5/PS4/PC headset with 50mm drivers, flip-to-mute mic and Tempest 3D Audio support per the listing. Cheapest here.",
    "price": 2299,
-   "price_checked": "2026-11-24",
+   "price_checked": "2026-11-25",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0F18JLKZW",
    "wireless": false
@@ -383,7 +383,7 @@
    "rank": 3,
    "why": "3.5mm wired, 50mm drivers, memory-foam cushions; the listing says multi-platform (PC/PS/Xbox/Switch/Mobile).",
    "price": 3999,
-   "price_checked": "2026-11-22",
+   "price_checked": "2026-11-25",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B086PKMZ21",
    "wireless": false
@@ -402,7 +402,7 @@
    "rank": 3,
    "why": "50mm drivers and a flip-to-mute mic; the listing says consoles connect with the 3.5mm cable.",
    "price": 4495,
-   "price_checked": "2026-11-22",
+   "price_checked": "2026-11-25",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B07QB2Y272",
    "wireless": false
@@ -436,7 +436,7 @@
    "rank": 4,
    "why": "Long-running wired HyperX with virtual 7.1 surround and memory foam; the title lists PC and PS5/PS4.",
    "price": 6299,
-   "price_checked": "2026-11-24",
+   "price_checked": "2026-11-25",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B00SAYCXWG",
    "wireless": false
@@ -488,9 +488,9 @@
    ],
    "rank": 6,
    "why": "Sony-made wireless headset with 360 Spatial Sound, 28-hour battery and 2.4GHz dongle; the listing says it works with PS5.",
-   "price": 11990,
-   "price_checked": "2026-11-19",
-   "availability": "Available to ship in 1-2 days",
+   "price": 13989,
+   "price_checked": "2026-11-25",
+   "availability": "Only 1 left in stock.",
    "source": "https://www.amazon.in/dp/B0CNPD3NSK",
    "wireless": true
   },
@@ -605,7 +605,7 @@
    "rank": 3,
    "why": "Same drive in 2TB: room for a few more 100GB+ games. Check Sony's M.2 requirements.",
    "price": 41499,
-   "price_checked": "2026-11-23",
+   "price_checked": "2026-11-25",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0DV32WGWM"
   },
@@ -637,10 +637,10 @@
    "rank": 3,
    "why": "Xbox Series X|S games must run from internal SSD or an expansion card; the listing says the C50 matches internal storage performance. No price shown when checked.",
    "price": null,
-   "price_checked": "2026-11-20",
-   "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
+   "price_checked": "2026-11-25",
+   "availability": null,
    "source": "https://www.amazon.in/dp/B0C44XVWCH",
-   "price_note": "Currently unavailable on Amazon.in when checked."
+   "price_note": "No price shown on the Amazon.in page when checked."
   },
   {
    "asin": "B07VSG5SXZ",
@@ -724,8 +724,8 @@
    "rank": 2,
    "why": "PlayStation-licensed single dock with a weighted base, per the listing.",
    "price": 1299,
-   "price_checked": "2026-11-24",
-   "availability": "Only 1 left in stock.",
+   "price_checked": "2026-11-25",
+   "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0C8RGL1JG"
   },
   {
