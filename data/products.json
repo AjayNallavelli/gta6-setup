@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "currency": "INR",
  "source": "amazon.in product pages",
  "products": [
@@ -350,7 +350,7 @@
    "why": "True 4K IPS with 2 HDMI 2.1 ports per the listing: the monitor to pick for 4K at high refresh from a console.",
    "price": 27999,
    "price_checked": "2026-11-25",
-   "availability": "In stock",
+   "availability": null,
    "source": "https://www.amazon.in/dp/B0H7VRS6S9"
   },
   {
@@ -402,7 +402,7 @@
    "rank": 3,
    "why": "50mm drivers and a flip-to-mute mic; the listing says consoles connect with the 3.5mm cable.",
    "price": 4495,
-   "price_checked": "2026-11-25",
+   "price_checked": "2026-11-26",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B07QB2Y272",
    "wireless": false
@@ -655,8 +655,8 @@
    ],
    "rank": 1,
    "why": "Listing says 48Gbps with 4K at 120Hz support. Cheapest HDMI 2.1 cable here.",
-   "price": 499,
-   "price_checked": "2026-11-22",
+   "price": 399,
+   "price_checked": "2026-11-26",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B07VSG5SXZ"
   },
@@ -707,8 +707,8 @@
    ],
    "rank": 1,
    "why": "Charges two DualSense or DualSense Edge controllers at once via pogo pins, per the listing.",
-   "price": 999,
-   "price_checked": "2026-11-21",
+   "price": 849,
+   "price_checked": "2026-11-26",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0F8MZV8PK"
   },
