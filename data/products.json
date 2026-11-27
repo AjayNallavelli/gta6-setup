@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "currency": "INR",
  "source": "amazon.in product pages",
  "products": [
@@ -14,7 +14,7 @@
    "rank": 1,
    "why": "Sony's current PS5 (Slim). GTA 6 is listed for PS5 on Rockstar's and PlayStation's official pages.",
    "price": null,
-   "price_checked": "2026-11-24",
+   "price_checked": "2026-11-27",
    "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
    "source": "https://www.amazon.in/dp/B0GNMKL3VP",
    "price_note": "Currently unavailable on Amazon.in when checked."
@@ -161,7 +161,7 @@
    "rank": 5,
    "why": "Largest screen here at 65 inches; listing says 120Hz refresh (DLG 288Hz) with VRR and a Game Master mode.",
    "price": 49999,
-   "price_checked": "2026-11-25",
+   "price_checked": "2026-11-27",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0GYD83B13",
    "size_inch": "65"
@@ -313,7 +313,7 @@
    "rank": 3,
    "why": "32-inch curved VA panel at QHD, 180Hz, with 2 HDMI ports per the listing. Biggest desk screen under ₹20,000 here.",
    "price": 19499,
-   "price_checked": "2026-11-20",
+   "price_checked": "2026-11-27",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0DCBDVNLD"
   },
@@ -330,8 +330,8 @@
    ],
    "rank": 3,
    "why": "QHD Fast IPS, 180Hz, HDR10 and a 3-year manufacturer warranty per the listing. HDMI 2.0 only.",
-   "price": 21699,
-   "price_checked": "2026-11-19",
+   "price": 19750,
+   "price_checked": "2026-11-27",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0GF2QG5K3"
   },
@@ -402,7 +402,7 @@
    "rank": 3,
    "why": "50mm drivers and a flip-to-mute mic; the listing says consoles connect with the 3.5mm cable.",
    "price": 4495,
-   "price_checked": "2026-11-26",
+   "price_checked": "2026-11-27",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B07QB2Y272",
    "wireless": false
@@ -522,7 +522,7 @@
    "rank": 3,
    "why": "Sony's own PS5 controller with haptics and adaptive triggers, in a special-edition colour (the standard DualSense listing was unavailable when checked).",
    "price": null,
-   "price_checked": "2026-11-23",
+   "price_checked": "2026-11-27",
    "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
    "source": "https://www.amazon.in/dp/B0HGGC5XGQ",
    "last_price": 7490,
@@ -572,10 +572,13 @@
    ],
    "rank": 3,
    "why": "Same official Xbox controller in white.",
-   "price": 6990,
-   "price_checked": "2026-11-23",
-   "availability": "Only 1 left in stock.",
-   "source": "https://www.amazon.in/dp/B0F2NCQYTX"
+   "price": null,
+   "price_checked": "2026-11-27",
+   "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
+   "source": "https://www.amazon.in/dp/B0F2NCQYTX",
+   "last_price": 6990,
+   "last_price_date": "2026-11-23",
+   "price_note": "Currently unavailable on Amazon.in when checked."
   },
   {
    "asin": "B0DV3C5HQH",
@@ -605,7 +608,7 @@
    "rank": 3,
    "why": "Same drive in 2TB: room for a few more 100GB+ games. Check Sony's M.2 requirements.",
    "price": 41499,
-   "price_checked": "2026-11-25",
+   "price_checked": "2026-11-27",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0DV32WGWM"
   },
@@ -621,8 +624,8 @@
    "rank": 4,
    "why": "Listed as an officially licensed M.2 SSD for PS5 with a PS5-specific heatsink, up to 7,300MB/s read. The safest, most expensive choice.",
    "price": 62499,
-   "price_checked": "2026-11-23",
-   "availability": "In stock",
+   "price_checked": "2026-11-27",
+   "availability": "Only 1 left in stock.",
    "source": "https://www.amazon.in/dp/B0C47ZX1WB"
   },
   {
@@ -708,7 +711,7 @@
    "rank": 1,
    "why": "Charges two DualSense or DualSense Edge controllers at once via pogo pins, per the listing.",
    "price": 849,
-   "price_checked": "2026-11-26",
+   "price_checked": "2026-11-27",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0F8MZV8PK"
   },
