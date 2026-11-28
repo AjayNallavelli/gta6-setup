@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "currency": "INR",
  "source": "amazon.in product pages",
  "products": [
@@ -85,7 +85,7 @@
    "rank": 3,
    "why": "Listing shows 3 HDMI 2.1 ports with ALLM and VRR on a QLED panel. Refresh rate is listed as 60Hz, so 4K120 is not advertised.",
    "price": 36490,
-   "price_checked": "2026-11-21",
+   "price_checked": "2026-11-28",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0FJLSNZBW",
    "size_inch": "55"
@@ -180,7 +180,7 @@
    "rank": 6,
    "why": "Best match for console gaming in this list: listing shows 3 HDMI 2.1 ports, a 144Hz Game Mode Pro and Dolby Vision on a QLED panel.",
    "price": 42990,
-   "price_checked": "2026-11-25",
+   "price_checked": "2026-11-28",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0F4WZWKSL",
    "size_inch": "55"
@@ -241,7 +241,7 @@
    "rank": 2,
    "why": "IPS, 200Hz, 0.5ms (MPRT) and 99% sRGB per the listing. Full HD.",
    "price": 9799,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-28",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0H69FXJC8"
   },
@@ -349,8 +349,8 @@
    "rank": 6,
    "why": "True 4K IPS with 2 HDMI 2.1 ports per the listing: the monitor to pick for 4K at high refresh from a console.",
    "price": 27999,
-   "price_checked": "2026-11-25",
-   "availability": null,
+   "price_checked": "2026-11-28",
+   "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0H7VRS6S9"
   },
   {
@@ -488,11 +488,14 @@
    ],
    "rank": 6,
    "why": "Sony-made wireless headset with 360 Spatial Sound, 28-hour battery and 2.4GHz dongle; the listing says it works with PS5.",
-   "price": 13989,
-   "price_checked": "2026-11-25",
-   "availability": "Only 1 left in stock.",
+   "price": null,
+   "price_checked": "2026-11-28",
+   "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
    "source": "https://www.amazon.in/dp/B0CNPD3NSK",
-   "wireless": true
+   "wireless": true,
+   "last_price": 13989,
+   "last_price_date": "2026-11-25",
+   "price_note": "Currently unavailable on Amazon.in when checked."
   },
   {
    "asin": "B0HN49PKLM",
@@ -523,7 +526,7 @@
    "why": "Sony's own PS5 controller with haptics and adaptive triggers, in a special-edition colour (the standard DualSense listing was unavailable when checked).",
    "price": null,
    "price_checked": "2026-11-27",
-   "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
+   "availability": null,
    "source": "https://www.amazon.in/dp/B0HGGC5XGQ",
    "last_price": 7490,
    "last_price_date": "2026-11-19",
@@ -592,7 +595,7 @@
    "rank": 2,
    "why": "M.2 2280 PCIe 4.0 NVMe, up to 7,100MB/s read, with heatsink per the listing: the form factor and heatsink the PS5's M.2 slot needs. Check Sony's M.2 requirements before buying.",
    "price": 18389,
-   "price_checked": "2026-11-19",
+   "price_checked": "2026-11-28",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0DV3C5HQH"
   },
@@ -727,7 +730,7 @@
    "rank": 2,
    "why": "PlayStation-licensed single dock with a weighted base, per the listing.",
    "price": 1299,
-   "price_checked": "2026-11-25",
+   "price_checked": "2026-11-28",
    "availability": "In stock",
    "source": "https://www.amazon.in/dp/B0C8RGL1JG"
   },
